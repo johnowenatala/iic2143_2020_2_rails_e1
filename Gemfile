@@ -39,6 +39,15 @@ gem 'bootsnap', '>= 1.1.0', require: false
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+
+  # gemas para testing. También van en development, para poder usarlos en consola
+  # motor de testing. Va tambien en dev para que al generar cosas se generen los tests
+  gem 'rspec-rails'
+
+  # generador de cosas
+  gem 'faker'
+  # fabricas. Va tambien en dev para que al generar modelos se generen las fabricas
+  gem 'factory_bot_rails'
 end
 
 group :development do
@@ -48,6 +57,12 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+end
+
+group :test do
+  # estadisticas de testing
+  gem 'simplecov', require: false
+
 end
 
 
