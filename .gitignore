@@ -28,3 +28,7 @@
 
 # RubyMine files
 .idea
+
+# Archivos que generan los tests
+/coverage
+spec/examples.txt
