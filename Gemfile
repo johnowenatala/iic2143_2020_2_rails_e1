@@ -43,6 +43,7 @@ group :development, :test do
   # gemas para testing. También van en development, para poder usarlos en consola
   # motor de testing. Va tambien en dev para que al generar cosas se generen los tests
   gem 'rspec-rails'
+  gem 'rails-controller-testing'
 
   # generador de cosas
   gem 'faker'

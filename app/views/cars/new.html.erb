@@ -1,0 +1,18 @@
+<%# views/cars/new.html.erb %>
+<h1>Crear auto</h1>
+<% if @car.errors.any? %>
+  <div>
+    Se encontraron errores:
+    <ul>
+      <% @car.errors.full_messages.each do |error_message| %>
+        <li><%= error_message %></li>
+      <% end %>
+    </ul>
+  </div>
+<% end %>
+<%= form_with model: @car, url: cars_create_path, local: true do |f| %>
+  <p><%= f.label :brand, 'Marca' %><%= f.text_field :brand %> </p>
+  <p><%= f.label :model, 'Modelo' %><%= f.text_field :model %> </p>
+  <p><%= f.label :price, 'Precio' %>$ <%= f.number_field :price %></p>
+  <%= f.submit "Crear auto"  %>
+<% end %>
