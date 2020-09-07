@@ -2,11 +2,14 @@
 #
 # Table name: cars
 #
-#  id         :bigint           not null, primary key
-#  price      :integer
-#  created_at :datetime         not null
-#  updated_at :datetime         not null
-#  model_id   :bigint
+#  id           :bigint           not null, primary key
+#  description  :string
+#  price        :integer
+#  transmission :integer          default("manual"), not null
+#  year         :integer
+#  created_at   :datetime         not null
+#  updated_at   :datetime         not null
+#  model_id     :bigint
 #
 # Indexes
 #
@@ -16,8 +19,9 @@
 #
 #  fk_rails_...  (model_id => models.id)
 #
-# models/car.rb
 class Car < ApplicationRecord
+
+  enum transmission: { manual: 1, auto: 2, other: 3 }, _prefix: true
 
   belongs_to :model, inverse_of: :cars
   has_one :brand, through: :model
