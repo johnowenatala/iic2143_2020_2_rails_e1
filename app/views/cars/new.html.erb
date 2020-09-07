@@ -11,8 +11,17 @@
   </div>
 <% end %>
 <%= form_with model: @car, url: cars_create_path, local: true do |f| %>
-  <p><%= f.label :brand, 'Marca' %><%= f.text_field :brand %> </p>
-  <p><%= f.label :model, 'Modelo' %><%= f.text_field :model %> </p>
+  <p>
+    <%= f.label :model_id, 'Modelo' %>
+    <%= f.grouped_collection_select :model_id,
+        Brand.all,
+        :models,
+        :name,
+        :id,
+        :name,
+        include_blank: false
+    %>
+  </p>
   <p><%= f.label :price, 'Precio' %>$ <%= f.number_field :price %></p>
   <%= f.submit "Crear auto"  %>
 <% end %>

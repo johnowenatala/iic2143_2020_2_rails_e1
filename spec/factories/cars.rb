@@ -1,7 +1,6 @@
 FactoryBot.define do
   factory :car do
-    brand { Faker::Company.industry }
-    model { Faker::Superhero.power }
+    model { Model.last || create(:model) }
     price { rand(5_000_000 .. 15_000_000) }
   end
 end

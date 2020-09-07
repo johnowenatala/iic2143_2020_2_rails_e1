@@ -3,8 +3,8 @@
   <% @cars.each do |car| %>
     <div class="car-list__item">
       Id: <%= car.id %>
-      Marca: <%= car.brand %>
-      Modelo: <%= car.model %>
+      Marca: <%= car.brand_name %>
+      Modelo: <%= car.car_model_name %>
       Precio: <%= car.price %>
     </div>
   <% end %>

@@ -24,15 +24,14 @@ RSpec.describe "Cars", type: :request do
 
   describe "POST /create" do
 
-    let(:new_brand){ Faker::Vehicle.make }
-    let(:new_model){ Faker::Superhero.power }
+    let(:new_brand){ create(:brand) }
+    let(:new_model){ create(:model, brand: new_brand) }
     let(:new_price){ rand(8_000_000..15_000_000) }
 
     let(:creating_params) do
       {
         car: {
-          brand: new_brand,
-          model: new_model,
+          model_id: new_model.id,
           price: new_price
         }
       }
