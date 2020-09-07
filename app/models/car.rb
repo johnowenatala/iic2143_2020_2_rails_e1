@@ -1,3 +1,21 @@
+# == Schema Information
+#
+# Table name: cars
+#
+#  id         :bigint           not null, primary key
+#  price      :integer
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#  model_id   :bigint
+#
+# Indexes
+#
+#  index_cars_on_model_id  (model_id)
+#
+# Foreign Keys
+#
+#  fk_rails_...  (model_id => models.id)
+#
 # models/car.rb
 class Car < ApplicationRecord
 
