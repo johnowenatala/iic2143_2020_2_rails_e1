@@ -59,7 +59,11 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
 
+  # esta gema hace que los modelos tengan un comentario con sus campos
   gem 'annotate'
+
+  # esta gema mejora la experiencia en consola
+  gem 'awesome_print'
 end
 
 group :test do
