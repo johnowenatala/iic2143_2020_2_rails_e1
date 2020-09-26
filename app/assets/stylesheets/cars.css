@@ -1,0 +1,20 @@
+.car-list {
+  margin-left: 10px;
+}
+
+.car-list__item {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #d4d4d4;
+}
+.new-car-btn {
+  padding: 9px 22px;
+  background: #008ab9;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+.new-car-btn:hover {
+  background: #9ae4fc;
+}
