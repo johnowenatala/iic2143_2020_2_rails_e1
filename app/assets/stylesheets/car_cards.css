@@ -1,0 +1,86 @@
+
+/* tarjetas de auto */
+
+.car-card {
+  display: flex;
+  flex-wrap: wrap;
+}
+.car-card__brand {
+  width: 100%;
+
+  font-size: 1.2rem;
+  font-weight: 100;
+  font-stretch: ultra-condensed;
+  padding: 0.4rem 0.1rem 0.2rem;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.car-card__model {
+  width: 60%;
+  font-size: 1rem;
+  font-weight: bold;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0.4rem 0.1rem 0.2rem;
+  text-align: center;
+
+}
+.car-card__year {
+  width: 40%;
+  font-size: 0.8rem;
+  color: #999;
+  padding: 0.4rem 0.1rem 0.2rem;
+  text-align: center;
+}
+.car-card__description {
+  width: 100%;
+  min-height: 78px;
+  padding: 0.5rem 0.7rem 1.5rem 0.7rem;
+  text-align: right;
+}
+.car-card__price {
+  width: 100%;
+  font-size: 1.1rem;
+  color: #2b2b2b;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.car-card__fake-link {
+  width: 100%;
+  font-size: 0.8rem;
+  padding: 0.2rem;
+  text-align: center;
+  color: #eec50b;
+}
+
+
+/* autos destacados */
+.car-card.car-card--highlight {
+  box-shadow: 0 2px 11px 1px rgba(0, 134, 179, 0.35);
+}
+.car-card--highlight .car-card__price {
+  color: #0086b3;
+  font-size: 1.4rem;
+}
+.car-card--highlight .car-card__price::after {
+  display: inline-block;
+  content: 'OFERTA';
+  font-size: 0.6rem;
+  color: #fff;
+  padding: 0.3rem 0.5rem;
+  background: #0086b3;
+  vertical-align: top;
+  margin-left: 0.3rem;
+  border-radius: 1rem;
+}
+
+.car-card:hover .car-card__fake-link {
+  color: #ffd735;
+  text-decoration: underline;
+}
+
+

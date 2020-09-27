@@ -1,0 +1,112 @@
+<div class="container container--no-bg">
+  <div class="card-list card-list--crop">
+    <% @highlights.first(3).each do |car| %>
+      <%= link_to show_from_home_path(car.id), class: "card car-card car-card--highlight" do  %>
+        <div class="car-card__brand"><%= car.brand_name %></div>
+        <div class="car-card__model"><%= car.car_model_name %></div>
+        <div class="car-card__year"><%= car.year %></div>
+        <div class="car-card__description"><%= car.description %></div>
+        <div class="car-card__price"><%= number_to_currency(car.price, unit: "$", precision: 0, delimiter: ".") %></div>
+        <div class="car-card__fake-link">Ver detalles</div>
+      <% end %>
+    <% end %>
+  </div>
+</div>
+
+<div class="container" id="list">
+  <h1><span class="title--light">Los autos más top del año </span> <span class="title--highlight"><%= @year %></span></h1>
+  <table class="car-table">
+    <thead>
+      <tr>
+        <th class="car-table__cell car-table__cell--title">Marca</th>
+        <th class="car-table__cell car-table__cell--title">Modelo</th>
+        <th class="car-table__cell car-table__cell--title">Transmición</th>
+        <th class="car-table__cell car-table__cell--title">Precio</th>
+        <th class="car-table__cell car-table__cell--title"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @cars.each do |car| %>
+        <tr class="car-table__row <%= 'car-table__row--highlight' if @highlights.include?(car) %>">
+          <td class="car-table__cell"><%= car.brand_name %></td>
+          <td class="car-table__cell"><%= car.car_model_name %></td>
+          <td class="car-table__cell"><%= car.transmission_other? ? 'otra' : car.transmission %></td>
+          <td class="car-table__cell">
+            <%= number_to_currency(car.price, unit: "$", precision: 0, delimiter: ".") %>
+            <% if @highlights.include?(car) %>
+              <span class="car-table__tag">OFERTA</span>
+            <% end %>
+          </td>
+          <td class="car-table__cell">
+            <%= link_to 'Ver detalles', show_from_year_path(@year,car.id) %>
+          </td>
+        </tr>
+      <% end %>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="5" class="car-table__cell car-table__cell--foot">
+          <div class="pagination">
+            <% if @page == 1 %>
+                <span class="pagination__item pagination__item--disabled">
+                  <!-- Imagen de FontAwesome - https://fontawesome.com/. Licencia: https://fontawesome.com/license -->
+                  <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-left" class="svg-inline--fa fa-arrow-left fa-w-14 pagination__icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                    <path fill="currentColor" d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"></path>
+                  </svg>
+                </span>
+            <% else %>
+              <%= link_to clients_index_by_year_path(@year, page: @page - 1, anchor: 'list'), class: 'pagination__item' do %>
+                <!-- Imagen de FontAwesome - https://fontawesome.com/. Licencia: https://fontawesome.com/license -->
+                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-left" class="svg-inline--fa fa-arrow-left fa-w-14 pagination__icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                  <path fill="currentColor" d="M257.5 445.1l-22.2 22.2c-9.4 9.4-24.6 9.4-33.9 0L7 273c-9.4-9.4-9.4-24.6 0-33.9L201.4 44.7c9.4-9.4 24.6-9.4 33.9 0l22.2 22.2c9.5 9.5 9.3 25-.4 34.3L136.6 216H424c13.3 0 24 10.7 24 24v32c0 13.3-10.7 24-24 24H136.6l120.5 114.8c9.8 9.3 10 24.8.4 34.3z"></path>
+                </svg>
+              <% end %>
+            <% end %>
+            <% if @page > 6 %>
+              <%= link_to '1', clients_index_by_year_path(@year, page: 1, anchor: 'list'), class: 'pagination__item' %>
+              <span class="pagination__item pagination__item--separator">...</span>
+            <% end %>
+            <% ((@page <= 6 ? 1 : @page - 4) .. [@page + 5,@pages].min ).each do |page| %>
+              <% if @page == page %>
+                <span class="pagination__item pagination__item--current"><%= page %></span>
+              <% else %>
+                <%= link_to page, clients_index_by_year_path(@year, page: page, anchor: 'list'), class: "pagination__item" %>
+              <% end %>
+            <% end %>
+
+            <% if @page == @pages %>
+                <span class="pagination__item pagination__item--disabled">
+                  <!-- Imagen de FontAwesome - https://fontawesome.com/. Licencia: https://fontawesome.com/license -->
+                  <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14 pagination__icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                    <path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path>
+                  </svg>
+                </span>
+            <% else %>
+              <%= link_to clients_index_by_year_path(@year, page: @page + 1, anchor: 'list'), class: 'pagination__item' do %>
+                <!-- Imagen de FontAwesome - https://fontawesome.com/. Licencia: https://fontawesome.com/license -->
+                <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="arrow-right" class="svg-inline--fa fa-arrow-right fa-w-14 pagination__icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                  <path fill="currentColor" d="M190.5 66.9l22.2-22.2c9.4-9.4 24.6-9.4 33.9 0L441 239c9.4 9.4 9.4 24.6 0 33.9L246.6 467.3c-9.4 9.4-24.6 9.4-33.9 0l-22.2-22.2c-9.5-9.5-9.3-25 .4-34.3L311.4 296H24c-13.3 0-24-10.7-24-24v-32c0-13.3 10.7-24 24-24h287.4L190.9 101.2c-9.8-9.3-10-24.8-.4-34.3z"></path>
+                </svg>
+              <% end %>
+            <% end %>
+          </div>
+        </td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
+
+<div class="container container--no-bg">
+  <div class="card-list card-list--crop">
+    <% @highlights.first(6).last(3).each do |car| %>
+      <%= link_to show_from_home_path(car.id), class: "card car-card car-card--highlight" do  %>
+        <div class="car-card__brand"><%= car.brand_name %></div>
+        <div class="car-card__model"><%= car.car_model_name %></div>
+        <div class="car-card__year"><%= car.year %></div>
+        <div class="car-card__description"><%= car.description %></div>
+        <div class="car-card__price"><%= number_to_currency(car.price, unit: "$", precision: 0, delimiter: ".") %></div>
+        <div class="car-card__fake-link">Ver detalles</div>
+      <% end %>
+    <% end %>
+  </div>
+</div>

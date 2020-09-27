@@ -1,0 +1,48 @@
+.card-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0;
+}
+.card {
+  display: block;
+  width: 90%;
+  margin: 1rem auto;
+  background: #fff;
+  box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.15);
+  color: #555;
+  cursor: pointer;
+  border-radius: 0.1rem;
+}
+.card:hover {
+  color: #555;
+  text-decoration: none;
+  background: #fffbeb;
+}
+
+.card-list--crop .card:nth-child(n+2) {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .card {
+    max-width: 325px;
+    margin: 1.5rem 0;
+  }
+  .card-list--crop .card:nth-child(n+2) {
+    display: block;
+  }
+  .card-list--crop .card:nth-child(n+3) {
+    display: none;
+  }
+}
+
+@media (min-width: 1280px) {
+  .card {
+    margin: 2rem 0;
+  }
+
+  .card-list--crop .card:nth-child(n+2) {
+    display: block;
+  }
+}
