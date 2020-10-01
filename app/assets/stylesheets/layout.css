@@ -30,6 +30,24 @@ a:hover {
   color: #ffd735;
   text-decoration: underline;
 }
+.btn-back {
+  display: block;
+  width: 300px;
+  padding:0.7rem 2.4rem;
+  border: 0.1rem solid #ffd735;
+  margin: 0 0 0 auto;
+  border-radius: 0.12rem;
+  font-weight: 300;
+  color: #ffd735;
+  text-align: center;
+  transition: all 0.2s;
+}
+.btn-back:hover {
+  color: #fff;
+  background-color: #555;
+  text-decoration: none;
+  border-color: #555;
+}
 
 h1 {
   font-size: 1.3rem;
@@ -42,6 +60,13 @@ h1::after {
   width: 180px;
   border-bottom: 2px solid #555;
   margin-top: 0.5rem;
+}
+.title-container {
+  display: flex;
+}
+.title-container--with-btn {
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 .title--light {
   font-weight: 300;

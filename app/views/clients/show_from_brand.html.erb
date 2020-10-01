@@ -1,0 +1,57 @@
+<div class="container container--no-bg">
+  <div class="card-list card-list--crop">
+    <% @highlights.first(3).each do |car| %>
+      <%= link_to show_from_home_path(car.id), class: "card car-card car-card--highlight" do  %>
+        <div class="car-card__brand"><%= car.brand_name %></div>
+        <div class="car-card__model"><%= car.car_model_name %></div>
+        <div class="car-card__year"><%= car.year %></div>
+        <div class="car-card__description"><%= car.description %></div>
+        <div class="car-card__price"><%= number_to_currency(car.price, unit: "$", precision: 0, delimiter: ".") %></div>
+        <div class="car-card__fake-link">Ver detalles</div>
+      <% end %>
+    <% end %>
+  </div>
+</div>
+
+<div class="container">
+  <div class="title-container title-container--with-btn">
+    <h1 class="title">
+      <span class="title--light">Los mejores autos de </span> <span class="title--highlight"><%= @brand.name %></span> /
+       <span class="title--light"><%= @car.brand_name %> <%= @car.car_model_name %></span> <%= @car.year %> <span class="title--highlight"><%= number_to_currency(@car.price, unit: "$", precision: 0, delimiter: ".") %></span>
+    </h1>
+    <%= link_to "Volver a #{@brand.name}", clients_index_by_brand_path(@brand.name), class: 'btn-back' %>
+  </div>
+  <div style="
+      min-height: 600px;
+      border: 2px solid rgb(229,186,28);
+      margin: 1rem;
+      background:
+          linear-gradient(135deg, #ECEDDC 25%, transparent 25%) -50px 0,
+              linear-gradient(225deg, #ECEDDC 25%, transparent 25%) -50px 0,
+              linear-gradient(315deg, #ECEDDC 25%, transparent 25%),
+              linear-gradient(45deg, #ECEDDC 25%, transparent 25%);
+      background-size: 100px 100px;
+      background-color: rgba(229,186,28,0.3);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  ">
+    Placeholder vista de un auto <strong style="margin: 0 0 0 0.3rem; font-size: 150%;">Normal</strong>, con imágenes, descripción, link de venta, etc
+
+  </div>
+</div>
+
+<div class="container container--no-bg">
+  <div class="card-list card-list--crop">
+    <% @highlights.first(6).last(3).each do |car| %>
+      <%= link_to show_from_home_path(car.id), class: "card car-card car-card--highlight" do  %>
+        <div class="car-card__brand"><%= car.brand_name %></div>
+        <div class="car-card__model"><%= car.car_model_name %></div>
+        <div class="car-card__year"><%= car.year %></div>
+        <div class="car-card__description"><%= car.description %></div>
+        <div class="car-card__price"><%= number_to_currency(car.price, unit: "$", precision: 0, delimiter: ".") %></div>
+        <div class="car-card__fake-link">Ver detalles</div>
+      <% end %>
+    <% end %>
+  </div>
+</div>
