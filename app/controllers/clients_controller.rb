@@ -174,8 +174,8 @@ class ClientsController < ApplicationController
     @highlights = Car
       .where("year < ?", Date.today.year - 5)
       .order(price: :desc)
-      .limit(6)
-      .shuffle
+      .limit(30) # los top 30 precios
+      .sample(6) # de ahi saco 6 al azar
   end
 
 
