@@ -1,9 +1,24 @@
 # app/controllers/cars_controller.rb
 
-class CarsController < ApplicationController
+class CarsController < ClientsController
   def index
-    @cars = Car.all
+    # voy a cargar 24 autos destacados (elegidos al azar entre 200)
+    cars = Car.highlighted.limit(200).sample(24)
+    # finalmente ordenare los autos en grupos de a 6
+    @cars_groups = []
+    group = []
+    cars.each do |car|
+      group << car
+      if group.length == 6
+        @cars_groups << group
+        group = []
+      end
+    end
+    if group.length > 0
+      @cars_groups << group
+    end
   end
+
   def new
     @car = Car.new
   end

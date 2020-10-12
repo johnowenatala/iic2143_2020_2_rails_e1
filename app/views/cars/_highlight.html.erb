@@ -1,0 +1,8 @@
+<%= link_to show_from_home_path(car.id), class: "card car-card car-card--highlight" do  %>
+  <div class="car-card__brand"><%= car.brand_name %></div>
+  <div class="car-card__model"><%= car.car_model_name %></div>
+  <div class="car-card__year"><%= car.year %></div>
+  <div class="car-card__description"><%= car.description %></div>
+  <div class="car-card__price"><%= number_to_currency(car.price, unit: "$", precision: 0, delimiter: ".") %></div>
+  <div class="car-card__fake-link">Ver detalles</div>
+<% end %>

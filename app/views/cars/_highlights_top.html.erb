@@ -1,0 +1,7 @@
+<div class="container container--no-bg">
+  <div class="card-list card-list--crop">
+    <% @highlights.first(3).each do |car| %>
+      <%= render partial: 'cars/highlight', locals: {car: car} %>
+    <% end %>
+  </div>
+</div>
