@@ -13,6 +13,7 @@
 #
 class Brand < ApplicationRecord
   has_many :models, inverse_of: :brand
+  has_many :cars, through: :models
 
   validates :name, uniqueness: true
 end

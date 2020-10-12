@@ -46,6 +46,7 @@ GEM
       activerecord (>= 3.2, < 7.0)
       rake (>= 10.4, < 14.0)
     arel (9.0.0)
+    awesome_print (1.8.0)
     bindex (0.8.1)
     bootsnap (1.4.8)
       msgpack (~> 1.0)
@@ -203,6 +204,7 @@ PLATFORMS
 
 DEPENDENCIES
   annotate
+  awesome_print
   bootsnap (>= 1.1.0)
   byebug
   coffee-rails (~> 4.2)

@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Justcars4e1</title>
+    <title>JustCars 4© Admin</title>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -11,6 +12,41 @@
   </head>
 
   <body>
+    <div class="site-header">
+      <div class="site-header__container">
+        <%= link_to root_path, class: 'site-header__logo-link' do %>
+          <%= image_tag 'logo.gif', class: 'site-header__logo' %>
+          JustCars©
+        <% end %>
+        <div class="site-header__slogan"> - Todos los autos al mejor precio</div>
+        <% if @brands.present? %>
+          <div class="site-header__menu simple-dropdown">
+            <div class="simple-dropdown__btn">Marcas</div>
+            <div class="simple-dropdown__menu">
+              <% @brands.each do |brand| %>
+                <%= link_to brand.name, clients_index_by_brand_path(brand.name), class: 'simple-dropdown__item' %>
+              <% end %>
+            </div>
+          </div>
+        <% end %>
+        <% if @years.present? %>
+          <div class="site-header__menu simple-dropdown">
+            <div class="simple-dropdown__btn">Años</div>
+            <div class="simple-dropdown__menu">
+              <% @years.each do |year| %>
+                <%= link_to year, clients_index_by_year_path(year), class: 'simple-dropdown__item' %>
+              <% end %>
+            </div>
+          </div>
+        <% end %>
+      </div>
+    </div>
     <%= yield %>
+    <div class="site-footer">
+      <div class="site-footer__copy">
+        JustCars 4 &copy; 2020. Algunos derechos reservados, pero otros no. O tal vez ninguno. O todos.
+      </div>
+      <div class="site-footer__icon">🤷</div>
+    </div>
   </body>
 </html>

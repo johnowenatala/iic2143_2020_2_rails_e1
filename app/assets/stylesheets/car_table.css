@@ -1,0 +1,40 @@
+.car-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.car-table__row:nth-child(odd) {
+  background: #f2f2f2;
+}
+.car-table__row:hover {
+  background: #ffffee;
+}
+.car-table__row:hover:nth-child(odd) {
+  background: #f6f6df;
+}
+.car-table__row--highlight .car-table__cell {
+  color: #0086b3;
+  font-weight: bold;
+  /*color: #222;*/
+}
+.car-table__cell {
+  padding: 0.7rem 0.4rem;
+  text-align: left;
+}
+.car-table__cell--title {
+  font-size: 0.875rem;
+  font-weight: bold;
+  border-bottom: 1px solid #ddd;
+}
+.car-table__cell--foot {
+  border-top: 1px solid #ddd;
+}
+.car-table__tag {
+  display: inline-block;
+  font-size: 0.5rem;
+  color: #fff;
+  padding: 0.15rem 0.5rem;
+  background: #0086b3;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}

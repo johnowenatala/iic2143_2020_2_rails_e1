@@ -1,12 +1,18 @@
-<h1>Autos</h1>
-<div class="car-list car-list--shiny">
-  <% @cars.each do |car| %>
-    <div class="car-list__item">
-      Id: <%= car.id %>
-      Marca: <%= car.brand_name %>
-      Modelo: <%= car.car_model_name %>
-      Precio: <%= car.price %>
+<% @cars_groups.each_with_index do |cars, index| %>
+  <div class="<%= 'alt-bg' if index % 2 == 1 %>">
+    <div class="container container--no-bg <%= 'container--no-margin' if index > 0 %>">
+      <div class="card-list">
+        <% cars.each do |car| %>
+          <%= link_to show_from_home_path(car.id), class: "card car-card #{'car-card--highlight' if @highlights.include?(car)}" do  %>
+            <div class="car-card__brand"><%= car.brand_name %></div>
+            <div class="car-card__model"><%= car.car_model_name %></div>
+            <div class="car-card__year"><%= car.year %></div>
+            <div class="car-card__description"><%= car.description %></div>
+            <div class="car-card__price"><%= number_to_currency(car.price, unit: "$", precision: 0, delimiter: ".") %></div>
+            <div class="car-card__fake-link">Ver detalles</div>
+          <% end %>
+        <% end %>
+      </div>
     </div>
-  <% end %>
-</div>
-<p><%= link_to 'Agregar nuevo auto', cars_new_path, class: 'new-car-btn' %></p>
+  </div>
+<% end %>
