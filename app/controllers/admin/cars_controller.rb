@@ -22,6 +22,8 @@ module Admin
           FileLoaders::CsvModelLoader.new
         elsif filename.end_with?('.xlsx')
           FileLoaders::ExcelModelLoader.new
+        elsif filename.end_with?('.json')
+          FileLoaders::JsonModelLoader.new
         else
           raise "Formato de archivo desconocido"
         end

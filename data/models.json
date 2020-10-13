@@ -1,0 +1,127 @@
+[
+  {
+    "brand_name": "BMW",
+    "name": "X1",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Audi",
+    "name": "A7",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "BMW",
+    "name": "X5",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Audi",
+    "name": "A8",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "BMW",
+    "name": "M5",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Lincoln",
+    "name": "MKZ",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Honda",
+    "name": "CR-V",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Lincoln",
+    "name": "Navigator",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "BMW",
+    "name": "M3",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Ford",
+    "name": "F150",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Ford",
+    "name": "Mustang",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Ford",
+    "name": "Fiesta",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Lincoln",
+    "name": "MKX",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Honda",
+    "name": "Odyssey",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Honda",
+    "name": "Accord",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "BMW",
+    "name": "X3",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Lincoln",
+    "name": "MKS",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Audi",
+    "name": "A4",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Audi",
+    "name": "7",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Honda",
+    "name": "Civic",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Audi",
+    "name": "A5",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Audi",
+    "name": "6",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Ford",
+    "name": "Focus",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "Audi",
+    "name": "S5",
+    "segment": "sport"
+  },
+  {
+    "brand_name": "BMW",
+    "name": "328i",
+    "segment": "sport"
+  }
+]
