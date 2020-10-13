@@ -1,0 +1,32 @@
+<div class="container">
+  <h1>Administración de autos</h1>
+
+  <div style="background: red; color: #f3f3f3; padding: 1.5rem 1rem; display: flex; justify-content: space-between; align-items: center;">
+    <p>Find me in app/views/admin/cars/index.html.erb</p>
+    <p style="font-size: 2rem; flex: 1 1 auto; text-align: center; margin: 0;">TODO</p>
+  </div>
+
+  <% if notice.present? %>
+    <p style="display: block; border: 2px solid green; padding: 5px; margin: 2px;"><%= notice %></p>
+  <% end %>
+  <% if alert.present? %>
+    <p style="display: block; border: 2px solid red; padding: 5px; margin: 2px;"><%= alert %></p>
+  <% end %>
+
+  <h2>Carga masiva de autos</h2>
+  <%= form_tag(admin_cars_load_path, method: :post, multipart: true) do %>
+
+    <p>Elija que cargar y luego seleccione el archivo a usar (formatos admitidos: csv, xlsx)</p>
+
+    <%= select_tag "load_type", options_for_select([
+        ["Autos", "cars"],
+        ["Modelos", "models"],
+        ["Marcas", "brands"]
+    ]) %>
+
+    <%= file_field_tag 'file' %>
+
+    <%= submit_tag "Cargar" %>
+  <% end %>
+
+</div>

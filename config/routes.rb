@@ -12,4 +12,9 @@ Rails.application.routes.draw do
   get "marca/:brand_name/auto/:id" => "brands#show", as: 'show_from_brand'
   get "anio/:year/auto/:id" => "years#show", as: 'show_from_year'
 
+
+  namespace :admin do
+    get 'cars/index'
+    post 'cars/load'
+  end
 end
