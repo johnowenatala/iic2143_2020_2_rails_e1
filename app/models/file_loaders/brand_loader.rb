@@ -1,6 +1,8 @@
 module FileLoaders
   class BrandLoader < FileLoader
 
+    protected
+
     ##
     # Guardar un objeto (lo busca y actualiza, o lo crea, según sea el caso)
     # @param [String] name - nombre de la marca

@@ -8,6 +8,8 @@ module FileLoaders
       raise "Not implemented"
     end
 
+    protected
+
     ##
     # Guardar un objeto (lo busca y actualiza, o lo crea, según sea el caso)
     # Método abstracto. Su implementación depende de las sub-clases
