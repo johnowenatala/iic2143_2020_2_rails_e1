@@ -1,0 +1,420 @@
+brand,model,year,price,transmission,description
+BMW,X1,2020,16490000,manual,BMW X1 2020
+Audi,A7,2020,10490000,auto,Audi A7 2020 (auto)
+BMW,X5,2012,13490000,auto,BMW X5 2012 (auto)
+Audi,A8,2013,18490000,auto,Audi A8 2013 (auto)
+BMW,M5,2019,25990000,auto,BMW M5 2019 (auto)
+Lincoln,MKZ,2015,13490000,manual,Lincoln MKZ 2015
+Honda,CR-V,2014,17990000,auto,Honda CR-V 2014 (auto)
+Lincoln,Navigator,2018,22990000,manual,Lincoln Navigator 2018
+BMW,M3,2018,13490000,other,BMW M3 2018
+BMW,X1,2012,16990000,auto,BMW X1 2012 (auto)
+Audi,A8,2014,14490000,auto,Audi A8 2014 (auto)
+Ford,F150,2014,10490000,auto,Ford F150 2014 (auto)
+Ford,Mustang,2012,14490000,manual,Ford Mustang 2012
+Ford,Fiesta,2014,18490000,auto,Ford Fiesta 2014 (auto)
+BMW,M3,2013,13990000,manual,BMW M3 2013
+Lincoln,Navigator,2014,20990000,other,Lincoln Navigator 2014
+Lincoln,MKX,2015,13490000,auto,Lincoln MKX 2015 (auto)
+Lincoln,MKZ,2015,12490000,auto,Lincoln MKZ 2015 (auto)
+Lincoln,Navigator,2017,24990000,auto,Lincoln Navigator 2017 (auto)
+Ford,Fiesta,2019,18490000,auto,Ford Fiesta 2019 (auto)
+Ford,F150,2015,8490000,other,Ford F150 2015
+Honda,Odyssey,2019,10490000,manual,Honda Odyssey 2019
+Honda,Accord,2018,9990000,auto,Honda Accord 2018 (auto)
+Ford,Mustang,2019,21990000,other,Ford Mustang 2019
+Ford,Mustang,2013,22990000,auto,Ford Mustang 2013 (auto)
+Ford,Mustang,2012,9990000,other,Ford Mustang 2012
+Honda,Accord,2012,20490000,auto,Honda Accord 2012 (auto)
+BMW,X3,2013,17990000,auto,BMW X3 2013 (auto)
+BMW,X5,2016,15990000,manual,BMW X5 2016
+Ford,Mustang,2017,25490000,other,Ford Mustang 2017
+Audi,A7,2013,16490000,other,Audi A7 2013
+Honda,CR-V,2013,15490000,auto,Honda CR-V 2013 (auto)
+Audi,A8,2012,21490000,manual,Audi A8 2012
+Lincoln,MKS,2017,8990000,auto,Lincoln MKS 2017 (auto)
+Audi,A4,2017,19990000,manual,Audi A4 2017
+Audi,A8,2012,19990000,auto,Audi A8 2012 (auto)
+Lincoln,Navigator,2013,10990000,auto,Lincoln Navigator 2013 (auto)
+Lincoln,MKS,2014,18990000,auto,Lincoln MKS 2014 (auto)
+Audi,7,2017,15490000,manual,Audi 7 2017
+Lincoln,Navigator,2015,8490000,other,Lincoln Navigator 2015
+Lincoln,MKS,2013,17490000,auto,Lincoln MKS 2013 (auto)
+BMW,M3,2012,20990000,manual,BMW M3 2012
+Audi,A7,2017,21490000,other,Audi A7 2017
+Lincoln,Navigator,2015,16990000,manual,Lincoln Navigator 2015
+Honda,Civic,2019,15990000,manual,Honda Civic 2019
+Honda,CR-V,2017,14990000,manual,Honda CR-V 2017
+Audi,A5,2017,24490000,manual,Audi A5 2017
+BMW,M5,2018,14490000,manual,BMW M5 2018
+Honda,Civic,2015,9490000,auto,Honda Civic 2015 (auto)
+Ford,F150,2019,8490000,auto,Ford F150 2019 (auto)
+Audi,A4,2019,15490000,auto,Audi A4 2019 (auto)
+Audi,A4,2020,21490000,other,Audi A4 2020
+Ford,F150,2020,24990000,manual,Ford F150 2020
+Honda,CR-V,2014,18990000,other,Honda CR-V 2014
+Lincoln,MKS,2016,18490000,manual,Lincoln MKS 2016
+Audi,A4,2014,9490000,manual,Audi A4 2014
+Honda,Accord,2013,23490000,auto,Honda Accord 2013 (auto)
+BMW,M3,2020,15990000,auto,BMW M3 2020 (auto)
+Honda,Civic,2016,14990000,auto,Honda Civic 2016 (auto)
+Lincoln,MKX,2013,10490000,manual,Lincoln MKX 2013
+Honda,Odyssey,2014,18490000,auto,Honda Odyssey 2014 (auto)
+Audi,6,2020,12490000,manual,Audi 6 2020
+Ford,Mustang,2015,17990000,manual,Ford Mustang 2015
+Audi,A4,2013,23990000,other,Audi A4 2013
+Ford,Focus,2017,14490000,manual,Ford Focus 2017
+Lincoln,Navigator,2019,21490000,manual,Lincoln Navigator 2019
+Ford,Focus,2013,18990000,auto,Ford Focus 2013 (auto)
+Ford,Focus,2017,24990000,auto,Ford Focus 2017 (auto)
+Audi,A5,2013,13990000,manual,Audi A5 2013
+Ford,F150,2019,15490000,manual,Ford F150 2019
+Honda,Civic,2016,22490000,manual,Honda Civic 2016
+BMW,X5,2015,21490000,manual,BMW X5 2015
+Ford,Mustang,2016,23490000,manual,Ford Mustang 2016
+BMW,M3,2020,15990000,manual,BMW M3 2020
+BMW,X5,2017,9990000,auto,BMW X5 2017 (auto)
+Honda,Odyssey,2017,9990000,manual,Honda Odyssey 2017
+Audi,7,2018,15990000,manual,Audi 7 2018
+Ford,Mustang,2014,8990000,auto,Ford Mustang 2014 (auto)
+Lincoln,MKS,2015,14990000,manual,Lincoln MKS 2015
+Honda,Accord,2015,9490000,manual,Honda Accord 2015
+BMW,X5,2017,17490000,manual,BMW X5 2017
+Audi,A4,2018,13990000,auto,Audi A4 2018 (auto)
+BMW,M5,2012,17490000,auto,BMW M5 2012 (auto)
+Lincoln,MKS,2018,14990000,auto,Lincoln MKS 2018 (auto)
+Audi,A7,2018,19490000,auto,Audi A7 2018 (auto)
+Ford,F150,2020,10990000,other,Ford F150 2020
+Ford,Mustang,2020,10490000,manual,Ford Mustang 2020
+Ford,F150,2017,16490000,manual,Ford F150 2017
+Ford,Focus,2018,14490000,auto,Ford Focus 2018 (auto)
+Audi,A5,2016,22990000,manual,Audi A5 2016
+Audi,A7,2020,19990000,manual,Audi A7 2020
+Lincoln,MKS,2015,19990000,other,Lincoln MKS 2015
+Audi,A8,2016,22990000,auto,Audi A8 2016 (auto)
+Honda,Accord,2015,12990000,auto,Honda Accord 2015 (auto)
+BMW,X3,2014,22990000,auto,BMW X3 2014 (auto)
+Ford,F150,2012,14990000,auto,Ford F150 2012 (auto)
+Audi,A8,2018,20490000,auto,Audi A8 2018 (auto)
+Lincoln,MKZ,2017,18490000,other,Lincoln MKZ 2017
+Audi,A4,2012,14490000,auto,Audi A4 2012 (auto)
+Lincoln,Navigator,2015,12990000,auto,Lincoln Navigator 2015 (auto)
+BMW,X5,2013,11990000,auto,BMW X5 2013 (auto)
+Honda,Odyssey,2018,24490000,manual,Honda Odyssey 2018
+Lincoln,MKX,2020,10990000,manual,Lincoln MKX 2020
+Ford,F150,2015,13490000,manual,Ford F150 2015
+Honda,Civic,2014,12490000,manual,Honda Civic 2014
+BMW,X1,2014,25990000,manual,BMW X1 2014
+Lincoln,Navigator,2016,19990000,auto,Lincoln Navigator 2016 (auto)
+Lincoln,MKS,2012,13490000,auto,Lincoln MKS 2012 (auto)
+Audi,A5,2020,16990000,manual,Audi A5 2020
+Lincoln,MKZ,2012,20490000,other,Lincoln MKZ 2012
+Audi,A7,2017,11490000,auto,Audi A7 2017 (auto)
+Ford,F150,2018,16490000,auto,Ford F150 2018 (auto)
+Audi,7,2015,8990000,other,Audi 7 2015
+Honda,Accord,2018,20990000,other,Honda Accord 2018
+Honda,CR-V,2016,21990000,auto,Honda CR-V 2016 (auto)
+BMW,M3,2017,23490000,auto,BMW M3 2017 (auto)
+BMW,X5,2020,17990000,auto,BMW X5 2020 (auto)
+BMW,X3,2019,14490000,auto,BMW X3 2019 (auto)
+BMW,M3,2015,23990000,auto,BMW M3 2015 (auto)
+BMW,M5,2012,23490000,manual,BMW M5 2012
+Audi,A5,2015,15490000,manual,Audi A5 2015
+BMW,M5,2014,9990000,other,BMW M5 2014
+Audi,A8,2018,12490000,manual,Audi A8 2018
+Lincoln,MKX,2012,15990000,manual,Lincoln MKX 2012
+Honda,Accord,2015,21990000,other,Honda Accord 2015
+Honda,CR-V,2020,8990000,other,Honda CR-V 2020
+Lincoln,MKZ,2015,17490000,other,Lincoln MKZ 2015
+Honda,Civic,2013,12490000,auto,Honda Civic 2013 (auto)
+Ford,Focus,2012,25490000,manual,Ford Focus 2012
+Ford,F150,2014,17990000,manual,Ford F150 2014
+Lincoln,MKX,2017,15990000,manual,Lincoln MKX 2017
+Honda,CR-V,2020,22490000,auto,Honda CR-V 2020 (auto)
+Lincoln,MKZ,2013,10990000,auto,Lincoln MKZ 2013 (auto)
+Ford,Fiesta,2015,14490000,manual,Ford Fiesta 2015
+Audi,7,2016,11490000,auto,Audi 7 2016 (auto)
+BMW,M3,2019,24490000,manual,BMW M3 2019
+BMW,M5,2014,19990000,manual,BMW M5 2014
+Honda,Odyssey,2012,11490000,manual,Honda Odyssey 2012
+BMW,M3,2013,8990000,other,BMW M3 2013
+Audi,A7,2014,18990000,auto,Audi A7 2014 (auto)
+Audi,A8,2012,21990000,other,Audi A8 2012
+Lincoln,MKS,2020,19990000,auto,Lincoln MKS 2020 (auto)
+BMW,X1,2014,20990000,auto,BMW X1 2014 (auto)
+Honda,Accord,2012,22490000,other,Honda Accord 2012
+Ford,Fiesta,2017,17490000,manual,Ford Fiesta 2017
+BMW,X1,2019,20490000,manual,BMW X1 2019
+BMW,X1,2013,23490000,manual,BMW X1 2013
+BMW,M3,2019,24490000,auto,BMW M3 2019 (auto)
+Audi,6,2012,9490000,manual,Audi 6 2012
+Honda,Odyssey,2013,20490000,manual,Honda Odyssey 2013
+BMW,X3,2019,18990000,other,BMW X3 2019
+Audi,6,2014,17490000,auto,Audi 6 2014 (auto)
+Audi,7,2017,8990000,auto,Audi 7 2017 (auto)
+BMW,M5,2015,15990000,auto,BMW M5 2015 (auto)
+Audi,A4,2014,10490000,auto,Audi A4 2014 (auto)
+Honda,Odyssey,2012,8490000,auto,Honda Odyssey 2012 (auto)
+BMW,X3,2017,14990000,auto,BMW X3 2017 (auto)
+Audi,6,2017,13490000,manual,Audi 6 2017
+Ford,Fiesta,2014,21990000,manual,Ford Fiesta 2014
+Audi,7,2019,24990000,manual,Audi 7 2019
+Audi,6,2012,8990000,auto,Audi 6 2012 (auto)
+Honda,Odyssey,2016,15490000,manual,Honda Odyssey 2016
+Honda,Accord,2018,20990000,manual,Honda Accord 2018
+Lincoln,MKX,2018,15490000,auto,Lincoln MKX 2018 (auto)
+Honda,Odyssey,2020,11990000,auto,Honda Odyssey 2020 (auto)
+Lincoln,MKZ,2017,11490000,manual,Lincoln MKZ 2017
+Ford,Focus,2018,23990000,manual,Ford Focus 2018
+Lincoln,MKX,2019,12490000,auto,Lincoln MKX 2019 (auto)
+Audi,A8,2015,15990000,auto,Audi A8 2015 (auto)
+Ford,F150,2017,16490000,auto,Ford F150 2017 (auto)
+Audi,A8,2013,19490000,other,Audi A8 2013
+Audi,A8,2020,19990000,manual,Audi A8 2020
+Honda,CR-V,2016,15990000,manual,Honda CR-V 2016
+Honda,Odyssey,2016,15490000,other,Honda Odyssey 2016
+Ford,Fiesta,2016,17990000,auto,Ford Fiesta 2016 (auto)
+Ford,Mustang,2015,12490000,other,Ford Mustang 2015
+Lincoln,MKX,2019,9990000,manual,Lincoln MKX 2019
+Honda,CR-V,2016,11490000,other,Honda CR-V 2016
+Honda,Civic,2018,24990000,manual,Honda Civic 2018
+Audi,A4,2016,23490000,auto,Audi A4 2016 (auto)
+Ford,Mustang,2017,17490000,auto,Ford Mustang 2017 (auto)
+Audi,A7,2018,8990000,manual,Audi A7 2018
+Lincoln,MKZ,2014,12490000,auto,Lincoln MKZ 2014 (auto)
+Ford,Fiesta,2012,21990000,other,Ford Fiesta 2012
+Audi,A7,2018,20990000,other,Audi A7 2018
+Honda,Odyssey,2014,23490000,manual,Honda Odyssey 2014
+Lincoln,Navigator,2017,25990000,manual,Lincoln Navigator 2017
+BMW,X1,2016,20490000,manual,BMW X1 2016
+Audi,A8,2017,21490000,manual,Audi A8 2017
+Audi,A4,2017,25490000,auto,Audi A4 2017 (auto)
+Ford,F150,2016,19490000,other,Ford F150 2016
+Audi,A5,2014,14990000,manual,Audi A5 2014
+Audi,7,2015,17490000,auto,Audi 7 2015 (auto)
+Honda,Accord,2014,17490000,manual,Honda Accord 2014
+Lincoln,MKZ,2019,11990000,auto,Lincoln MKZ 2019 (auto)
+BMW,M3,2015,22990000,manual,BMW M3 2015
+Lincoln,MKZ,2012,24990000,manual,Lincoln MKZ 2012
+BMW,X5,2014,9490000,manual,BMW X5 2014
+Honda,Civic,2013,18490000,manual,Honda Civic 2013
+BMW,M5,2016,9490000,manual,BMW M5 2016
+Ford,Mustang,2012,8490000,auto,Ford Mustang 2012 (auto)
+Ford,Fiesta,2015,15990000,auto,Ford Fiesta 2015 (auto)
+Lincoln,MKZ,2016,21990000,auto,Lincoln MKZ 2016 (auto)
+BMW,X5,2019,9990000,auto,BMW X5 2019 (auto)
+Lincoln,MKX,2018,11490000,manual,Lincoln MKX 2018
+Ford,F150,2013,10490000,auto,Ford F150 2013 (auto)
+Ford,Fiesta,2020,13990000,manual,Ford Fiesta 2020
+Honda,Odyssey,2017,11990000,other,Honda Odyssey 2017
+Lincoln,MKX,2014,9490000,manual,Lincoln MKX 2014
+Lincoln,Navigator,2013,10990000,manual,Lincoln Navigator 2013
+Honda,Accord,2020,10990000,manual,Honda Accord 2020
+Ford,Mustang,2020,24990000,auto,Ford Mustang 2020 (auto)
+Lincoln,Navigator,2020,15990000,auto,Lincoln Navigator 2020 (auto)
+BMW,M3,2014,14490000,auto,BMW M3 2014 (auto)
+Audi,A7,2012,22490000,auto,Audi A7 2012 (auto)
+Ford,Fiesta,2017,20990000,auto,Ford Fiesta 2017 (auto)
+Lincoln,Navigator,2016,23990000,manual,Lincoln Navigator 2016
+Honda,Odyssey,2017,15990000,auto,Honda Odyssey 2017 (auto)
+Audi,A4,2018,25990000,manual,Audi A4 2018
+Honda,Accord,2019,10990000,auto,Honda Accord 2019 (auto)
+BMW,X1,2016,15490000,auto,BMW X1 2016 (auto)
+Lincoln,MKS,2013,24990000,manual,Lincoln MKS 2013
+Audi,7,2015,21490000,manual,Audi 7 2015
+Audi,A8,2019,13490000,auto,Audi A8 2019 (auto)
+Ford,Fiesta,2012,13490000,auto,Ford Fiesta 2012 (auto)
+Audi,A8,2016,10490000,other,Audi A8 2016
+Ford,Focus,2016,11490000,manual,Ford Focus 2016
+Honda,Accord,2012,10490000,manual,Honda Accord 2012
+Honda,Civic,2014,15490000,auto,Honda Civic 2014 (auto)
+Lincoln,MKS,2019,9490000,auto,Lincoln MKS 2019 (auto)
+BMW,X5,2015,11490000,auto,BMW X5 2015 (auto)
+Ford,Fiesta,2018,11990000,manual,Ford Fiesta 2018
+BMW,M3,2018,17990000,manual,BMW M3 2018
+Lincoln,MKZ,2020,13490000,other,Lincoln MKZ 2020
+Honda,Civic,2017,12490000,auto,Honda Civic 2017 (auto)
+Audi,A5,2018,8490000,auto,Audi A5 2018 (auto)
+Honda,Accord,2017,13490000,auto,Honda Accord 2017 (auto)
+Ford,Fiesta,2013,8490000,other,Ford Fiesta 2013
+Ford,F150,2015,25490000,auto,Ford F150 2015 (auto)
+Lincoln,MKZ,2016,16990000,manual,Lincoln MKZ 2016
+Honda,CR-V,2019,25490000,manual,Honda CR-V 2019
+BMW,M5,2013,16490000,auto,BMW M5 2013 (auto)
+Audi,A7,2016,16990000,other,Audi A7 2016
+BMW,X3,2016,15990000,other,BMW X3 2016
+Audi,A5,2018,11990000,manual,Audi A5 2018
+Honda,CR-V,2013,23990000,manual,Honda CR-V 2013
+Lincoln,MKX,2020,11490000,auto,Lincoln MKX 2020 (auto)
+Ford,F150,2014,20490000,other,Ford F150 2014
+Lincoln,MKZ,2020,13490000,manual,Lincoln MKZ 2020
+Audi,A7,2019,20990000,manual,Audi A7 2019
+Ford,F150,2012,23490000,manual,Ford F150 2012
+Lincoln,MKS,2019,13990000,manual,Lincoln MKS 2019
+Honda,Odyssey,2015,13490000,auto,Honda Odyssey 2015 (auto)
+Honda,Odyssey,2013,9490000,auto,Honda Odyssey 2013 (auto)
+Honda,Accord,2016,23490000,auto,Honda Accord 2016 (auto)
+Honda,CR-V,2018,20490000,auto,Honda CR-V 2018 (auto)
+Lincoln,MKS,2016,9490000,other,Lincoln MKS 2016
+Honda,Accord,2016,9490000,other,Honda Accord 2016
+Honda,CR-V,2019,15490000,auto,Honda CR-V 2019 (auto)
+Honda,Civic,2020,11990000,auto,Honda Civic 2020 (auto)
+Audi,A8,2017,10490000,auto,Audi A8 2017 (auto)
+Lincoln,MKX,2016,11990000,manual,Lincoln MKX 2016
+Honda,Civic,2015,10490000,manual,Honda Civic 2015
+Audi,A5,2013,21990000,auto,Audi A5 2013 (auto)
+Honda,Odyssey,2012,13990000,other,Honda Odyssey 2012
+BMW,M5,2016,19490000,other,BMW M5 2016
+Ford,F150,2016,18990000,manual,Ford F150 2016
+Audi,S5,2013,17490000,auto,Audi S5 2013 (auto)
+BMW,X3,2012,12490000,other,BMW X3 2012
+Honda,Odyssey,2019,25990000,auto,Honda Odyssey 2019 (auto)
+Audi,A7,2015,9490000,manual,Audi A7 2015
+BMW,X3,2012,17490000,manual,BMW X3 2012
+Audi,6,2019,18990000,other,Audi 6 2019
+Lincoln,MKX,2017,13490000,auto,Lincoln MKX 2017 (auto)
+Audi,A4,2016,17490000,manual,Audi A4 2016
+BMW,X5,2013,17490000,manual,BMW X5 2013
+Lincoln,MKX,2013,9490000,auto,Lincoln MKX 2013 (auto)
+Honda,Civic,2012,12990000,manual,Honda Civic 2012
+Honda,Civic,2012,14990000,auto,Honda Civic 2012 (auto)
+Audi,7,2020,10990000,auto,Audi 7 2020 (auto)
+BMW,M3,2017,8990000,manual,BMW M3 2017
+Audi,A5,2012,10990000,auto,Audi A5 2012 (auto)
+Ford,Focus,2012,9990000,other,Ford Focus 2012
+BMW,M3,2016,11490000,manual,BMW M3 2016
+Lincoln,MKZ,2018,24990000,manual,Lincoln MKZ 2018
+Audi,6,2017,23490000,auto,Audi 6 2017 (auto)
+Lincoln,Navigator,2012,13990000,manual,Lincoln Navigator 2012
+Audi,6,2013,15990000,auto,Audi 6 2013 (auto)
+Audi,A4,2017,14490000,other,Audi A4 2017
+Audi,6,2015,17490000,other,Audi 6 2015
+Ford,Mustang,2015,18490000,auto,Ford Mustang 2015 (auto)
+Honda,CR-V,2018,9490000,manual,Honda CR-V 2018
+BMW,X1,2012,14490000,manual,BMW X1 2012
+Lincoln,MKZ,2013,23990000,manual,Lincoln MKZ 2013
+Audi,A5,2013,15990000,other,Audi A5 2013
+Honda,Civic,2019,21990000,auto,Honda Civic 2019 (auto)
+Audi,7,2019,13490000,auto,Audi 7 2019 (auto)
+Lincoln,MKZ,2014,16990000,manual,Lincoln MKZ 2014
+Lincoln,MKX,2017,15990000,other,Lincoln MKX 2017
+Lincoln,MKX,2016,8490000,other,Lincoln MKX 2016
+BMW,X1,2018,18990000,auto,BMW X1 2018 (auto)
+Lincoln,Navigator,2018,19990000,other,Lincoln Navigator 2018
+BMW,X1,2015,13490000,auto,BMW X1 2015 (auto)
+Honda,Civic,2014,16990000,other,Honda Civic 2014
+Audi,A7,2015,11490000,auto,Audi A7 2015 (auto)
+Ford,Focus,2015,19490000,manual,Ford Focus 2015
+BMW,X3,2020,12990000,auto,BMW X3 2020 (auto)
+BMW,M5,2013,8990000,manual,BMW M5 2013
+BMW,M3,2019,9990000,other,BMW M3 2019
+Lincoln,MKZ,2019,25490000,other,Lincoln MKZ 2019
+Honda,Accord,2014,22990000,other,Honda Accord 2014
+Audi,6,2017,16990000,other,Audi 6 2017
+Honda,CR-V,2020,20490000,manual,Honda CR-V 2020
+Audi,A7,2012,19990000,other,Audi A7 2012
+Audi,6,2018,15490000,auto,Audi 6 2018 (auto)
+Audi,7,2017,22990000,other,Audi 7 2017
+Lincoln,MKZ,2020,10490000,auto,Lincoln MKZ 2020 (auto)
+Audi,A5,2012,23990000,manual,Audi A5 2012
+BMW,M3,2016,11490000,other,BMW M3 2016
+Audi,A7,2012,24490000,manual,Audi A7 2012
+Lincoln,Navigator,2019,24490000,other,Lincoln Navigator 2019
+BMW,X3,2014,24990000,manual,BMW X3 2014
+BMW,M3,2013,11490000,auto,BMW M3 2013 (auto)
+Lincoln,MKZ,2013,24490000,other,Lincoln MKZ 2013
+Honda,Accord,2020,20990000,auto,Honda Accord 2020 (auto)
+Ford,Fiesta,2019,14990000,manual,Ford Fiesta 2019
+Audi,A4,2019,25990000,manual,Audi A4 2019
+Ford,Fiesta,2012,24990000,manual,Ford Fiesta 2012
+Honda,CR-V,2015,15490000,manual,Honda CR-V 2015
+Ford,Mustang,2014,14990000,manual,Ford Mustang 2014
+BMW,X5,2014,21490000,auto,BMW X5 2014 (auto)
+BMW,M5,2015,21990000,other,BMW M5 2015
+Lincoln,MKS,2012,19990000,manual,Lincoln MKS 2012
+Audi,7,2012,14990000,manual,Audi 7 2012
+Lincoln,MKX,2015,12490000,manual,Lincoln MKX 2015
+Lincoln,MKS,2020,18490000,manual,Lincoln MKS 2020
+Ford,Fiesta,2018,10490000,auto,Ford Fiesta 2018 (auto)
+Honda,Accord,2013,18990000,manual,Honda Accord 2013
+Audi,6,2018,16990000,manual,Audi 6 2018
+Honda,Accord,2016,12490000,manual,Honda Accord 2016
+Lincoln,MKX,2014,13490000,auto,Lincoln MKX 2014 (auto)
+Audi,A8,2020,16990000,other,Audi A8 2020
+Audi,A8,2020,12990000,auto,Audi A8 2020 (auto)
+Ford,F150,2013,9490000,other,Ford F150 2013
+Honda,Accord,2019,25490000,manual,Honda Accord 2019
+BMW,X5,2018,14490000,auto,BMW X5 2018 (auto)
+Audi,7,2020,14490000,manual,Audi 7 2020
+Audi,A7,2014,22490000,manual,Audi A7 2014
+Lincoln,MKS,2012,10490000,other,Lincoln MKS 2012
+Audi,A7,2020,18490000,other,Audi A7 2020
+Honda,Odyssey,2016,17490000,auto,Honda Odyssey 2016 (auto)
+BMW,M3,2017,13990000,other,BMW M3 2017
+BMW,M5,2017,25490000,auto,BMW M5 2017 (auto)
+BMW,X1,2015,22990000,manual,BMW X1 2015
+Lincoln,Navigator,2020,16990000,other,Lincoln Navigator 2020
+Ford,Focus,2019,23490000,auto,Ford Focus 2019 (auto)
+Lincoln,MKX,2015,24490000,other,Lincoln MKX 2015
+BMW,X1,2013,8990000,auto,BMW X1 2013 (auto)
+Audi,A4,2020,24990000,manual,Audi A4 2020
+Honda,Civic,2020,18990000,manual,Honda Civic 2020
+BMW,X5,2016,18490000,auto,BMW X5 2016 (auto)
+Ford,Focus,2013,18490000,manual,Ford Focus 2013
+Lincoln,MKS,2018,21490000,manual,Lincoln MKS 2018
+BMW,M5,2020,24990000,manual,BMW M5 2020
+Audi,S5,2015,18990000,auto,Audi S5 2015 (auto)
+Honda,Civic,2020,19490000,other,Honda Civic 2020
+Audi,S5,2018,23490000,auto,Audi S5 2018 (auto)
+Ford,Mustang,2019,21990000,manual,Ford Mustang 2019
+Audi,A7,2013,14990000,auto,Audi A7 2013 (auto)
+Audi,6,2016,24490000,other,Audi 6 2016
+Ford,Fiesta,2013,15990000,auto,Ford Fiesta 2013 (auto)
+BMW,M5,2016,10990000,auto,BMW M5 2016 (auto)
+Audi,A4,2015,22490000,manual,Audi A4 2015
+Audi,7,2014,17990000,manual,Audi 7 2014
+Lincoln,MKS,2016,9490000,auto,Lincoln MKS 2016 (auto)
+Audi,A4,2020,16490000,auto,Audi A4 2020 (auto)
+Ford,Mustang,2018,13490000,manual,Ford Mustang 2018
+Audi,A8,2014,25490000,other,Audi A8 2014
+Lincoln,MKZ,2018,11490000,auto,Lincoln MKZ 2018 (auto)
+Ford,F150,2013,24990000,manual,Ford F150 2013
+Lincoln,MKS,2017,8990000,other,Lincoln MKS 2017
+Audi,A4,2018,20990000,other,Audi A4 2018
+BMW,X3,2018,15490000,auto,BMW X3 2018 (auto)
+BMW,M3,2018,9990000,auto,BMW M3 2018 (auto)
+Ford,Fiesta,2020,25990000,other,Ford Fiesta 2020
+Honda,Odyssey,2018,22490000,auto,Honda Odyssey 2018 (auto)
+Audi,A7,2013,12990000,manual,Audi A7 2013
+Audi,A5,2018,14990000,other,Audi A5 2018
+Audi,A7,2016,21490000,manual,Audi A7 2016
+Audi,S5,2019,22990000,manual,Audi S5 2019
+BMW,M3,2016,22490000,auto,BMW M3 2016 (auto)
+Ford,F150,2020,10990000,auto,Ford F150 2020 (auto)
+BMW,X3,2020,24490000,manual,BMW X3 2020
+BMW,328i,2017,24990000,auto,BMW 328i 2017 (auto)
+BMW,M5,2019,25490000,other,BMW M5 2019
+Ford,Mustang,2019,19990000,auto,Ford Mustang 2019 (auto)
+BMW,X5,2020,10490000,manual,BMW X5 2020
+Ford,Focus,2020,12990000,manual,Ford Focus 2020
+BMW,X5,2019,17490000,manual,BMW X5 2019
+BMW,M5,2020,23990000,auto,BMW M5 2020 (auto)
+Ford,Fiesta,2017,14990000,other,Ford Fiesta 2017
+Audi,A4,2015,10990000,auto,Audi A4 2015 (auto)
+Audi,A5,2017,25490000,other,Audi A5 2017
+Lincoln,MKS,2018,17490000,other,Lincoln MKS 2018
+BMW,X1,2019,9990000,other,BMW X1 2019
+Audi,A8,2014,20990000,manual,Audi A8 2014
+Audi,A5,2016,14490000,auto,Audi A5 2016 (auto)
+Lincoln,Navigator,2019,14990000,auto,Lincoln Navigator 2019 (auto)
+Ford,Focus,2020,9990000,auto,Ford Focus 2020 (auto)
+Honda,Civic,2017,22490000,manual,Honda Civic 2017
+Honda,CR-V,2015,19990000,auto,Honda CR-V 2015 (auto)
+Ford,Fiesta,2013,9490000,manual,Ford Fiesta 2013
+Lincoln,Navigator,2014,9990000,auto,Lincoln Navigator 2014 (auto)
+BMW,328i,2014,16490000,auto,BMW 328i 2014 (auto)
+Audi,S5,2014,14990000,manual,Audi S5 2014
+Ford,Fiesta,2014,18990000,other,Ford Fiesta 2014
+Audi,S5,2015,10990000,manual,Audi S5 2015
+Ford,Mustang,2016,20990000,other,Ford Mustang 2016
+Audi,A7,2019,19490000,auto,Audi A7 2019 (auto)

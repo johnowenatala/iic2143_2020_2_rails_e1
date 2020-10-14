@@ -8,28 +8,29 @@ module Admin
       type = params[:load_type]
       file = params[:file]
       filename = file.original_filename.downcase
-      file_loader = case type
+
+
+      record_storage = case type
       when "brands"
-        if filename.end_with?('.csv')
-          FileLoaders::CsvBrandLoader.new
-        elsif filename.end_with?('.xlsx')
-          FileLoaders::ExcelBrandLoader.new
-        else
-          raise "Formato de archivo desconocido"
-        end
+        FileLoaders::BrandStorage.new
       when "models"
-        if filename.end_with?('.csv')
-          FileLoaders::CsvModelLoader.new
-        elsif filename.end_with?('.xlsx')
-          FileLoaders::ExcelModelLoader.new
-        elsif filename.end_with?('.json')
-          FileLoaders::JsonModelLoader.new
-        else
-          raise "Formato de archivo desconocido"
-        end
+        FileLoaders::ModelStorage.new
+      when "cars"
+        FileLoaders::CarStorage.new
       else
         raise "No implementado"
       end
+
+      file_loader = if filename.end_with?('.csv')
+        FileLoaders::CsvFileLoader.new(record_storage)
+      elsif filename.end_with?('.xlsx')
+        FileLoaders::ExcelFileLoader.new(record_storage)
+      elsif filename.end_with?('.json')
+        FileLoaders::JsonFileLoader.new(record_storage)
+      else
+        raise "Formato de archivo desconocido"
+      end
+
       ActiveRecord::Base.transaction do
         # vamos a hacer la carga dentro de una transacción
         file_loader.load file

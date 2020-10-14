@@ -1,0 +1,3354 @@
+[
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2020,
+    "price": 16490000,
+    "transmission": "manual",
+    "description": "BMW X1 2020"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2020,
+    "price": 10490000,
+    "transmission": "auto",
+    "description": "Audi A7 2020 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2012,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "BMW X5 2012 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2013,
+    "price": 18490000,
+    "transmission": "auto",
+    "description": "Audi A8 2013 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2019,
+    "price": 25990000,
+    "transmission": "auto",
+    "description": "BMW M5 2019 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2015,
+    "price": 13490000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2015"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2014,
+    "price": 17990000,
+    "transmission": "auto",
+    "description": "Honda CR-V 2014 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2018,
+    "price": 22990000,
+    "transmission": "manual",
+    "description": "Lincoln Navigator 2018"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2018,
+    "price": 13490000,
+    "transmission": "other",
+    "description": "BMW M3 2018"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2012,
+    "price": 16990000,
+    "transmission": "auto",
+    "description": "BMW X1 2012 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2014,
+    "price": 14490000,
+    "transmission": "auto",
+    "description": "Audi A8 2014 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2014,
+    "price": 10490000,
+    "transmission": "auto",
+    "description": "Ford F150 2014 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2012,
+    "price": 14490000,
+    "transmission": "manual",
+    "description": "Ford Mustang 2012"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2014,
+    "price": 18490000,
+    "transmission": "auto",
+    "description": "Ford Fiesta 2014 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2013,
+    "price": 13990000,
+    "transmission": "manual",
+    "description": "BMW M3 2013"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2014,
+    "price": 20990000,
+    "transmission": "other",
+    "description": "Lincoln Navigator 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2015,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Lincoln MKX 2015 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2015,
+    "price": 12490000,
+    "transmission": "auto",
+    "description": "Lincoln MKZ 2015 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2017,
+    "price": 24990000,
+    "transmission": "auto",
+    "description": "Lincoln Navigator 2017 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2019,
+    "price": 18490000,
+    "transmission": "auto",
+    "description": "Ford Fiesta 2019 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2015,
+    "price": 8490000,
+    "transmission": "other",
+    "description": "Ford F150 2015"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2019,
+    "price": 10490000,
+    "transmission": "manual",
+    "description": "Honda Odyssey 2019"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2018,
+    "price": 9990000,
+    "transmission": "auto",
+    "description": "Honda Accord 2018 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2013,
+    "price": 22990000,
+    "transmission": "auto",
+    "description": "Ford Mustang 2013 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2012,
+    "price": 9990000,
+    "transmission": "other",
+    "description": "Ford Mustang 2012"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2012,
+    "price": 20490000,
+    "transmission": "auto",
+    "description": "Honda Accord 2012 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2013,
+    "price": 17990000,
+    "transmission": "auto",
+    "description": "BMW X3 2013 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2016,
+    "price": 15990000,
+    "transmission": "manual",
+    "description": "BMW X5 2016"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2017,
+    "price": 25490000,
+    "transmission": "other",
+    "description": "Ford Mustang 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2013,
+    "price": 16490000,
+    "transmission": "other",
+    "description": "Audi A7 2013"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2013,
+    "price": 15490000,
+    "transmission": "auto",
+    "description": "Honda CR-V 2013 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2012,
+    "price": 21490000,
+    "transmission": "manual",
+    "description": "Audi A8 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2017,
+    "price": 19990000,
+    "transmission": "manual",
+    "description": "Audi A4 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2012,
+    "price": 19990000,
+    "transmission": "auto",
+    "description": "Audi A8 2012 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2014,
+    "price": 18990000,
+    "transmission": "auto",
+    "description": "Lincoln MKS 2014 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2017,
+    "price": 15490000,
+    "transmission": "manual",
+    "description": "Audi 7 2017"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2015,
+    "price": 8490000,
+    "transmission": "other",
+    "description": "Lincoln Navigator 2015"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2013,
+    "price": 17490000,
+    "transmission": "auto",
+    "description": "Lincoln MKS 2013 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2012,
+    "price": 20990000,
+    "transmission": "manual",
+    "description": "BMW M3 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2017,
+    "price": 21490000,
+    "transmission": "other",
+    "description": "Audi A7 2017"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2015,
+    "price": 16990000,
+    "transmission": "manual",
+    "description": "Lincoln Navigator 2015"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "price": 15990000,
+    "transmission": "manual",
+    "description": "Honda Civic 2019"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2017,
+    "price": 14990000,
+    "transmission": "manual",
+    "description": "Honda CR-V 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2017,
+    "price": 24490000,
+    "transmission": "manual",
+    "description": "Audi A5 2017"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2018,
+    "price": 14490000,
+    "transmission": "manual",
+    "description": "BMW M5 2018"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2015,
+    "price": 9490000,
+    "transmission": "auto",
+    "description": "Honda Civic 2015 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2019,
+    "price": 8490000,
+    "transmission": "auto",
+    "description": "Ford F150 2019 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2019,
+    "price": 15490000,
+    "transmission": "auto",
+    "description": "Audi A4 2019 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2020,
+    "price": 21490000,
+    "transmission": "other",
+    "description": "Audi A4 2020"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2020,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Ford F150 2020"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2014,
+    "price": 18990000,
+    "transmission": "other",
+    "description": "Honda CR-V 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2016,
+    "price": 18490000,
+    "transmission": "manual",
+    "description": "Lincoln MKS 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2014,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "Audi A4 2014"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2013,
+    "price": 23490000,
+    "transmission": "auto",
+    "description": "Honda Accord 2013 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "price": 14990000,
+    "transmission": "auto",
+    "description": "Honda Civic 2016 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2013,
+    "price": 10490000,
+    "transmission": "manual",
+    "description": "Lincoln MKX 2013"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2014,
+    "price": 18490000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2014 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2020,
+    "price": 12490000,
+    "transmission": "manual",
+    "description": "Audi 6 2020"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2015,
+    "price": 17990000,
+    "transmission": "manual",
+    "description": "Ford Mustang 2015"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2013,
+    "price": 23990000,
+    "transmission": "other",
+    "description": "Audi A4 2013"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2017,
+    "price": 14490000,
+    "transmission": "manual",
+    "description": "Ford Focus 2017"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2019,
+    "price": 21490000,
+    "transmission": "manual",
+    "description": "Lincoln Navigator 2019"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2013,
+    "price": 18990000,
+    "transmission": "auto",
+    "description": "Ford Focus 2013 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2017,
+    "price": 24990000,
+    "transmission": "auto",
+    "description": "Ford Focus 2017 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2013,
+    "price": 13990000,
+    "transmission": "manual",
+    "description": "Audi A5 2013"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2019,
+    "price": 15490000,
+    "transmission": "manual",
+    "description": "Ford F150 2019"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "price": 22490000,
+    "transmission": "manual",
+    "description": "Honda Civic 2016"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2015,
+    "price": 21490000,
+    "transmission": "manual",
+    "description": "BMW X5 2015"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2016,
+    "price": 23490000,
+    "transmission": "manual",
+    "description": "Ford Mustang 2016"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2020,
+    "price": 15990000,
+    "transmission": "manual",
+    "description": "BMW M3 2020"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2017,
+    "price": 9990000,
+    "transmission": "auto",
+    "description": "BMW X5 2017 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2017,
+    "price": 9990000,
+    "transmission": "manual",
+    "description": "Honda Odyssey 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2018,
+    "price": 15990000,
+    "transmission": "manual",
+    "description": "Audi 7 2018"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2014,
+    "price": 8990000,
+    "transmission": "auto",
+    "description": "Ford Mustang 2014 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2015,
+    "price": 14990000,
+    "transmission": "manual",
+    "description": "Lincoln MKS 2015"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2015,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "Honda Accord 2015"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2017,
+    "price": 17490000,
+    "transmission": "manual",
+    "description": "BMW X5 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2018,
+    "price": 13990000,
+    "transmission": "auto",
+    "description": "Audi A4 2018 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2012,
+    "price": 17490000,
+    "transmission": "auto",
+    "description": "BMW M5 2012 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2018,
+    "price": 14990000,
+    "transmission": "auto",
+    "description": "Lincoln MKS 2018 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2018,
+    "price": 19490000,
+    "transmission": "auto",
+    "description": "Audi A7 2018 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2020,
+    "price": 10490000,
+    "transmission": "manual",
+    "description": "Ford Mustang 2020"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2018,
+    "price": 14490000,
+    "transmission": "auto",
+    "description": "Ford Focus 2018 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2016,
+    "price": 22990000,
+    "transmission": "manual",
+    "description": "Audi A5 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2020,
+    "price": 19990000,
+    "transmission": "manual",
+    "description": "Audi A7 2020"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2015,
+    "price": 19990000,
+    "transmission": "other",
+    "description": "Lincoln MKS 2015"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2016,
+    "price": 22990000,
+    "transmission": "auto",
+    "description": "Audi A8 2016 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2015,
+    "price": 12990000,
+    "transmission": "auto",
+    "description": "Honda Accord 2015 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2014,
+    "price": 22990000,
+    "transmission": "auto",
+    "description": "BMW X3 2014 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2012,
+    "price": 14990000,
+    "transmission": "auto",
+    "description": "Ford F150 2012 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2018,
+    "price": 20490000,
+    "transmission": "auto",
+    "description": "Audi A8 2018 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2017,
+    "price": 18490000,
+    "transmission": "other",
+    "description": "Lincoln MKZ 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2012,
+    "price": 14490000,
+    "transmission": "auto",
+    "description": "Audi A4 2012 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2015,
+    "price": 12990000,
+    "transmission": "auto",
+    "description": "Lincoln Navigator 2015 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2013,
+    "price": 11990000,
+    "transmission": "auto",
+    "description": "BMW X5 2013 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2018,
+    "price": 24490000,
+    "transmission": "manual",
+    "description": "Honda Odyssey 2018"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2020,
+    "price": 10990000,
+    "transmission": "manual",
+    "description": "Lincoln MKX 2020"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2015,
+    "price": 13490000,
+    "transmission": "manual",
+    "description": "Ford F150 2015"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2014,
+    "price": 12490000,
+    "transmission": "manual",
+    "description": "Honda Civic 2014"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2014,
+    "price": 25990000,
+    "transmission": "manual",
+    "description": "BMW X1 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2016,
+    "price": 19990000,
+    "transmission": "auto",
+    "description": "Lincoln Navigator 2016 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2012,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Lincoln MKS 2012 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2020,
+    "price": 16990000,
+    "transmission": "manual",
+    "description": "Audi A5 2020"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2012,
+    "price": 20490000,
+    "transmission": "other",
+    "description": "Lincoln MKZ 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2017,
+    "price": 11490000,
+    "transmission": "auto",
+    "description": "Audi A7 2017 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2018,
+    "price": 16490000,
+    "transmission": "auto",
+    "description": "Ford F150 2018 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2015,
+    "price": 8990000,
+    "transmission": "other",
+    "description": "Audi 7 2015"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2016,
+    "price": 21990000,
+    "transmission": "auto",
+    "description": "Honda CR-V 2016 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2017,
+    "price": 23490000,
+    "transmission": "auto",
+    "description": "BMW M3 2017 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2020,
+    "price": 17990000,
+    "transmission": "auto",
+    "description": "BMW X5 2020 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2019,
+    "price": 14490000,
+    "transmission": "auto",
+    "description": "BMW X3 2019 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2015,
+    "price": 23990000,
+    "transmission": "auto",
+    "description": "BMW M3 2015 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2012,
+    "price": 23490000,
+    "transmission": "manual",
+    "description": "BMW M5 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2015,
+    "price": 15490000,
+    "transmission": "manual",
+    "description": "Audi A5 2015"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2014,
+    "price": 9990000,
+    "transmission": "other",
+    "description": "BMW M5 2014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2018,
+    "price": 12490000,
+    "transmission": "manual",
+    "description": "Audi A8 2018"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2012,
+    "price": 15990000,
+    "transmission": "manual",
+    "description": "Lincoln MKX 2012"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2015,
+    "price": 21990000,
+    "transmission": "other",
+    "description": "Honda Accord 2015"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2020,
+    "price": 8990000,
+    "transmission": "other",
+    "description": "Honda CR-V 2020"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2015,
+    "price": 17490000,
+    "transmission": "other",
+    "description": "Lincoln MKZ 2015"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2013,
+    "price": 12490000,
+    "transmission": "auto",
+    "description": "Honda Civic 2013 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2012,
+    "price": 25490000,
+    "transmission": "manual",
+    "description": "Ford Focus 2012"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2014,
+    "price": 17990000,
+    "transmission": "manual",
+    "description": "Ford F150 2014"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2020,
+    "price": 22490000,
+    "transmission": "auto",
+    "description": "Honda CR-V 2020 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2013,
+    "price": 10990000,
+    "transmission": "auto",
+    "description": "Lincoln MKZ 2013 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2015,
+    "price": 14490000,
+    "transmission": "manual",
+    "description": "Ford Fiesta 2015"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2016,
+    "price": 11490000,
+    "transmission": "auto",
+    "description": "Audi 7 2016 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2014,
+    "price": 19990000,
+    "transmission": "manual",
+    "description": "BMW M5 2014"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2012,
+    "price": 11490000,
+    "transmission": "manual",
+    "description": "Honda Odyssey 2012"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2013,
+    "price": 8990000,
+    "transmission": "other",
+    "description": "BMW M3 2013"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2014,
+    "price": 18990000,
+    "transmission": "auto",
+    "description": "Audi A7 2014 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2012,
+    "price": 21990000,
+    "transmission": "other",
+    "description": "Audi A8 2012"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2020,
+    "price": 19990000,
+    "transmission": "auto",
+    "description": "Lincoln MKS 2020 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2014,
+    "price": 20990000,
+    "transmission": "auto",
+    "description": "BMW X1 2014 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2012,
+    "price": 22490000,
+    "transmission": "other",
+    "description": "Honda Accord 2012"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2017,
+    "price": 17490000,
+    "transmission": "manual",
+    "description": "Ford Fiesta 2017"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2019,
+    "price": 20490000,
+    "transmission": "manual",
+    "description": "BMW X1 2019"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2013,
+    "price": 23490000,
+    "transmission": "manual",
+    "description": "BMW X1 2013"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2019,
+    "price": 24490000,
+    "transmission": "auto",
+    "description": "BMW M3 2019 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2012,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "Audi 6 2012"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2013,
+    "price": 20490000,
+    "transmission": "manual",
+    "description": "Honda Odyssey 2013"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2019,
+    "price": 18990000,
+    "transmission": "other",
+    "description": "BMW X3 2019"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2014,
+    "price": 17490000,
+    "transmission": "auto",
+    "description": "Audi 6 2014 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2017,
+    "price": 8990000,
+    "transmission": "auto",
+    "description": "Audi 7 2017 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2015,
+    "price": 15990000,
+    "transmission": "auto",
+    "description": "BMW M5 2015 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2014,
+    "price": 10490000,
+    "transmission": "auto",
+    "description": "Audi A4 2014 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2012,
+    "price": 8490000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2012 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2017,
+    "price": 14990000,
+    "transmission": "auto",
+    "description": "BMW X3 2017 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2017,
+    "price": 13490000,
+    "transmission": "manual",
+    "description": "Audi 6 2017"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2014,
+    "price": 21990000,
+    "transmission": "manual",
+    "description": "Ford Fiesta 2014"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2019,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Audi 7 2019"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2012,
+    "price": 8990000,
+    "transmission": "auto",
+    "description": "Audi 6 2012 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2018,
+    "price": 20990000,
+    "transmission": "manual",
+    "description": "Honda Accord 2018"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2018,
+    "price": 15490000,
+    "transmission": "auto",
+    "description": "Lincoln MKX 2018 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2020,
+    "price": 11990000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2020 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2017,
+    "price": 11490000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2017"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2018,
+    "price": 23990000,
+    "transmission": "manual",
+    "description": "Ford Focus 2018"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2019,
+    "price": 12490000,
+    "transmission": "auto",
+    "description": "Lincoln MKX 2019 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2015,
+    "price": 15990000,
+    "transmission": "auto",
+    "description": "Audi A8 2015 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2017,
+    "price": 16490000,
+    "transmission": "auto",
+    "description": "Ford F150 2017 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2013,
+    "price": 19490000,
+    "transmission": "other",
+    "description": "Audi A8 2013"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2020,
+    "price": 19990000,
+    "transmission": "manual",
+    "description": "Audi A8 2020"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2016,
+    "price": 15990000,
+    "transmission": "manual",
+    "description": "Honda CR-V 2016"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2016,
+    "price": 15490000,
+    "transmission": "other",
+    "description": "Honda Odyssey 2016"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2016,
+    "price": 17990000,
+    "transmission": "auto",
+    "description": "Ford Fiesta 2016 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2015,
+    "price": 12490000,
+    "transmission": "other",
+    "description": "Ford Mustang 2015"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2019,
+    "price": 9990000,
+    "transmission": "manual",
+    "description": "Lincoln MKX 2019"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2016,
+    "price": 11490000,
+    "transmission": "other",
+    "description": "Honda CR-V 2016"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2018,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Honda Civic 2018"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2016,
+    "price": 23490000,
+    "transmission": "auto",
+    "description": "Audi A4 2016 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2017,
+    "price": 17490000,
+    "transmission": "auto",
+    "description": "Ford Mustang 2017 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2018,
+    "price": 8990000,
+    "transmission": "manual",
+    "description": "Audi A7 2018"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2014,
+    "price": 12490000,
+    "transmission": "auto",
+    "description": "Lincoln MKZ 2014 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2012,
+    "price": 21990000,
+    "transmission": "other",
+    "description": "Ford Fiesta 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2018,
+    "price": 20990000,
+    "transmission": "other",
+    "description": "Audi A7 2018"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2014,
+    "price": 23490000,
+    "transmission": "manual",
+    "description": "Honda Odyssey 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2017,
+    "price": 25990000,
+    "transmission": "manual",
+    "description": "Lincoln Navigator 2017"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2016,
+    "price": 20490000,
+    "transmission": "manual",
+    "description": "BMW X1 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2017,
+    "price": 21490000,
+    "transmission": "manual",
+    "description": "Audi A8 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2017,
+    "price": 25490000,
+    "transmission": "auto",
+    "description": "Audi A4 2017 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2016,
+    "price": 19490000,
+    "transmission": "other",
+    "description": "Ford F150 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2014,
+    "price": 14990000,
+    "transmission": "manual",
+    "description": "Audi A5 2014"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2015,
+    "price": 17490000,
+    "transmission": "auto",
+    "description": "Audi 7 2015 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2014,
+    "price": 17490000,
+    "transmission": "manual",
+    "description": "Honda Accord 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2019,
+    "price": 11990000,
+    "transmission": "auto",
+    "description": "Lincoln MKZ 2019 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2015,
+    "price": 22990000,
+    "transmission": "manual",
+    "description": "BMW M3 2015"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2012,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2012"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2014,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "BMW X5 2014"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2013,
+    "price": 18490000,
+    "transmission": "manual",
+    "description": "Honda Civic 2013"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2016,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "BMW M5 2016"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2012,
+    "price": 8490000,
+    "transmission": "auto",
+    "description": "Ford Mustang 2012 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2015,
+    "price": 15990000,
+    "transmission": "auto",
+    "description": "Ford Fiesta 2015 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2016,
+    "price": 21990000,
+    "transmission": "auto",
+    "description": "Lincoln MKZ 2016 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2019,
+    "price": 9990000,
+    "transmission": "auto",
+    "description": "BMW X5 2019 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2018,
+    "price": 11490000,
+    "transmission": "manual",
+    "description": "Lincoln MKX 2018"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2013,
+    "price": 10490000,
+    "transmission": "auto",
+    "description": "Ford F150 2013 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2020,
+    "price": 13990000,
+    "transmission": "manual",
+    "description": "Ford Fiesta 2020"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2017,
+    "price": 11990000,
+    "transmission": "other",
+    "description": "Honda Odyssey 2017"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2014,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "Lincoln MKX 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2013,
+    "price": 10990000,
+    "transmission": "manual",
+    "description": "Lincoln Navigator 2013"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2020,
+    "price": 10990000,
+    "transmission": "manual",
+    "description": "Honda Accord 2020"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2020,
+    "price": 24990000,
+    "transmission": "auto",
+    "description": "Ford Mustang 2020 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2020,
+    "price": 15990000,
+    "transmission": "auto",
+    "description": "Lincoln Navigator 2020 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2014,
+    "price": 14490000,
+    "transmission": "auto",
+    "description": "BMW M3 2014 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2012,
+    "price": 22490000,
+    "transmission": "auto",
+    "description": "Audi A7 2012 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2017,
+    "price": 20990000,
+    "transmission": "auto",
+    "description": "Ford Fiesta 2017 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2016,
+    "price": 23990000,
+    "transmission": "manual",
+    "description": "Lincoln Navigator 2016"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2017,
+    "price": 15990000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2017 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2018,
+    "price": 25990000,
+    "transmission": "manual",
+    "description": "Audi A4 2018"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2019,
+    "price": 10990000,
+    "transmission": "auto",
+    "description": "Honda Accord 2019 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2016,
+    "price": 15490000,
+    "transmission": "auto",
+    "description": "BMW X1 2016 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2013,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Lincoln MKS 2013"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2015,
+    "price": 21490000,
+    "transmission": "manual",
+    "description": "Audi 7 2015"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2019,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Audi A8 2019 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2012,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Ford Fiesta 2012 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2016,
+    "price": 10490000,
+    "transmission": "other",
+    "description": "Audi A8 2016"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2016,
+    "price": 11490000,
+    "transmission": "manual",
+    "description": "Ford Focus 2016"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2012,
+    "price": 10490000,
+    "transmission": "manual",
+    "description": "Honda Accord 2012"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2014,
+    "price": 15490000,
+    "transmission": "auto",
+    "description": "Honda Civic 2014 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2019,
+    "price": 9490000,
+    "transmission": "auto",
+    "description": "Lincoln MKS 2019 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2015,
+    "price": 11490000,
+    "transmission": "auto",
+    "description": "BMW X5 2015 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2018,
+    "price": 11990000,
+    "transmission": "manual",
+    "description": "Ford Fiesta 2018"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2018,
+    "price": 17990000,
+    "transmission": "manual",
+    "description": "BMW M3 2018"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2017,
+    "price": 12490000,
+    "transmission": "auto",
+    "description": "Honda Civic 2017 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2018,
+    "price": 8490000,
+    "transmission": "auto",
+    "description": "Audi A5 2018 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2017,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Honda Accord 2017 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2013,
+    "price": 8490000,
+    "transmission": "other",
+    "description": "Ford Fiesta 2013"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2015,
+    "price": 25490000,
+    "transmission": "auto",
+    "description": "Ford F150 2015 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2016,
+    "price": 16990000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2016"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2019,
+    "price": 25490000,
+    "transmission": "manual",
+    "description": "Honda CR-V 2019"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2013,
+    "price": 16490000,
+    "transmission": "auto",
+    "description": "BMW M5 2013 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2016,
+    "price": 16990000,
+    "transmission": "other",
+    "description": "Audi A7 2016"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2016,
+    "price": 15990000,
+    "transmission": "other",
+    "description": "BMW X3 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2018,
+    "price": 11990000,
+    "transmission": "manual",
+    "description": "Audi A5 2018"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2013,
+    "price": 23990000,
+    "transmission": "manual",
+    "description": "Honda CR-V 2013"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2020,
+    "price": 11490000,
+    "transmission": "auto",
+    "description": "Lincoln MKX 2020 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2014,
+    "price": 20490000,
+    "transmission": "other",
+    "description": "Ford F150 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2020,
+    "price": 13490000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2020"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2019,
+    "price": 20990000,
+    "transmission": "manual",
+    "description": "Audi A7 2019"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2012,
+    "price": 23490000,
+    "transmission": "manual",
+    "description": "Ford F150 2012"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2019,
+    "price": 13990000,
+    "transmission": "manual",
+    "description": "Lincoln MKS 2019"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2015,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2015 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2013,
+    "price": 9490000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2013 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2016,
+    "price": 23490000,
+    "transmission": "auto",
+    "description": "Honda Accord 2016 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2018,
+    "price": 20490000,
+    "transmission": "auto",
+    "description": "Honda CR-V 2018 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2016,
+    "price": 9490000,
+    "transmission": "other",
+    "description": "Honda Accord 2016"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2019,
+    "price": 15490000,
+    "transmission": "auto",
+    "description": "Honda CR-V 2019 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "price": 11990000,
+    "transmission": "auto",
+    "description": "Honda Civic 2020 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2017,
+    "price": 10490000,
+    "transmission": "auto",
+    "description": "Audi A8 2017 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2016,
+    "price": 11990000,
+    "transmission": "manual",
+    "description": "Lincoln MKX 2016"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2015,
+    "price": 10490000,
+    "transmission": "manual",
+    "description": "Honda Civic 2015"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2013,
+    "price": 21990000,
+    "transmission": "auto",
+    "description": "Audi A5 2013 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2012,
+    "price": 13990000,
+    "transmission": "other",
+    "description": "Honda Odyssey 2012"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2016,
+    "price": 19490000,
+    "transmission": "other",
+    "description": "BMW M5 2016"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2016,
+    "price": 18990000,
+    "transmission": "manual",
+    "description": "Ford F150 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "S5",
+    "year": 2013,
+    "price": 17490000,
+    "transmission": "auto",
+    "description": "Audi S5 2013 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2012,
+    "price": 12490000,
+    "transmission": "other",
+    "description": "BMW X3 2012"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2019,
+    "price": 25990000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2019 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2015,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "Audi A7 2015"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2012,
+    "price": 17490000,
+    "transmission": "manual",
+    "description": "BMW X3 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2019,
+    "price": 18990000,
+    "transmission": "other",
+    "description": "Audi 6 2019"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2017,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Lincoln MKX 2017 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2016,
+    "price": 17490000,
+    "transmission": "manual",
+    "description": "Audi A4 2016"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2013,
+    "price": 17490000,
+    "transmission": "manual",
+    "description": "BMW X5 2013"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2013,
+    "price": 9490000,
+    "transmission": "auto",
+    "description": "Lincoln MKX 2013 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2012,
+    "price": 12990000,
+    "transmission": "manual",
+    "description": "Honda Civic 2012"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2012,
+    "price": 14990000,
+    "transmission": "auto",
+    "description": "Honda Civic 2012 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2020,
+    "price": 10990000,
+    "transmission": "auto",
+    "description": "Audi 7 2020 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2017,
+    "price": 8990000,
+    "transmission": "manual",
+    "description": "BMW M3 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2012,
+    "price": 10990000,
+    "transmission": "auto",
+    "description": "Audi A5 2012 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2012,
+    "price": 9990000,
+    "transmission": "other",
+    "description": "Ford Focus 2012"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2018,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2018"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2017,
+    "price": 23490000,
+    "transmission": "auto",
+    "description": "Audi 6 2017 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2012,
+    "price": 13990000,
+    "transmission": "manual",
+    "description": "Lincoln Navigator 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2013,
+    "price": 15990000,
+    "transmission": "auto",
+    "description": "Audi 6 2013 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2017,
+    "price": 14490000,
+    "transmission": "other",
+    "description": "Audi A4 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2015,
+    "price": 17490000,
+    "transmission": "other",
+    "description": "Audi 6 2015"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2015,
+    "price": 18490000,
+    "transmission": "auto",
+    "description": "Ford Mustang 2015 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2018,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "Honda CR-V 2018"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2012,
+    "price": 14490000,
+    "transmission": "manual",
+    "description": "BMW X1 2012"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2013,
+    "price": 23990000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2013"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2013,
+    "price": 15990000,
+    "transmission": "other",
+    "description": "Audi A5 2013"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "price": 21990000,
+    "transmission": "auto",
+    "description": "Honda Civic 2019 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2019,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Audi 7 2019 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2014,
+    "price": 16990000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2017,
+    "price": 15990000,
+    "transmission": "other",
+    "description": "Lincoln MKX 2017"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2016,
+    "price": 8490000,
+    "transmission": "other",
+    "description": "Lincoln MKX 2016"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2018,
+    "price": 18990000,
+    "transmission": "auto",
+    "description": "BMW X1 2018 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2018,
+    "price": 19990000,
+    "transmission": "other",
+    "description": "Lincoln Navigator 2018"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2015,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "BMW X1 2015 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2014,
+    "price": 16990000,
+    "transmission": "other",
+    "description": "Honda Civic 2014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2015,
+    "price": 11490000,
+    "transmission": "auto",
+    "description": "Audi A7 2015 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2015,
+    "price": 19490000,
+    "transmission": "manual",
+    "description": "Ford Focus 2015"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2020,
+    "price": 12990000,
+    "transmission": "auto",
+    "description": "BMW X3 2020 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2013,
+    "price": 8990000,
+    "transmission": "manual",
+    "description": "BMW M5 2013"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2019,
+    "price": 9990000,
+    "transmission": "other",
+    "description": "BMW M3 2019"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2019,
+    "price": 25490000,
+    "transmission": "other",
+    "description": "Lincoln MKZ 2019"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2014,
+    "price": 22990000,
+    "transmission": "other",
+    "description": "Honda Accord 2014"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2017,
+    "price": 16990000,
+    "transmission": "other",
+    "description": "Audi 6 2017"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2020,
+    "price": 20490000,
+    "transmission": "manual",
+    "description": "Honda CR-V 2020"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2012,
+    "price": 19990000,
+    "transmission": "other",
+    "description": "Audi A7 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2018,
+    "price": 15490000,
+    "transmission": "auto",
+    "description": "Audi 6 2018 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2017,
+    "price": 22990000,
+    "transmission": "other",
+    "description": "Audi 7 2017"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2020,
+    "price": 10490000,
+    "transmission": "auto",
+    "description": "Lincoln MKZ 2020 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2012,
+    "price": 23990000,
+    "transmission": "manual",
+    "description": "Audi A5 2012"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2016,
+    "price": 11490000,
+    "transmission": "other",
+    "description": "BMW M3 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2012,
+    "price": 24490000,
+    "transmission": "manual",
+    "description": "Audi A7 2012"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2019,
+    "price": 24490000,
+    "transmission": "other",
+    "description": "Lincoln Navigator 2019"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2014,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "BMW X3 2014"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2013,
+    "price": 11490000,
+    "transmission": "auto",
+    "description": "BMW M3 2013 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2013,
+    "price": 24490000,
+    "transmission": "other",
+    "description": "Lincoln MKZ 2013"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2020,
+    "price": 20990000,
+    "transmission": "auto",
+    "description": "Honda Accord 2020 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2019,
+    "price": 14990000,
+    "transmission": "manual",
+    "description": "Ford Fiesta 2019"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2019,
+    "price": 25990000,
+    "transmission": "manual",
+    "description": "Audi A4 2019"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2012,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Ford Fiesta 2012"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2015,
+    "price": 15490000,
+    "transmission": "manual",
+    "description": "Honda CR-V 2015"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2014,
+    "price": 14990000,
+    "transmission": "manual",
+    "description": "Ford Mustang 2014"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2014,
+    "price": 21490000,
+    "transmission": "auto",
+    "description": "BMW X5 2014 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2015,
+    "price": 21990000,
+    "transmission": "other",
+    "description": "BMW M5 2015"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2012,
+    "price": 19990000,
+    "transmission": "manual",
+    "description": "Lincoln MKS 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2012,
+    "price": 14990000,
+    "transmission": "manual",
+    "description": "Audi 7 2012"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2015,
+    "price": 12490000,
+    "transmission": "manual",
+    "description": "Lincoln MKX 2015"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2020,
+    "price": 18490000,
+    "transmission": "manual",
+    "description": "Lincoln MKS 2020"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2018,
+    "price": 10490000,
+    "transmission": "auto",
+    "description": "Ford Fiesta 2018 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2013,
+    "price": 18990000,
+    "transmission": "manual",
+    "description": "Honda Accord 2013"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2018,
+    "price": 16990000,
+    "transmission": "manual",
+    "description": "Audi 6 2018"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2016,
+    "price": 12490000,
+    "transmission": "manual",
+    "description": "Honda Accord 2016"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2014,
+    "price": 13490000,
+    "transmission": "auto",
+    "description": "Lincoln MKX 2014 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2020,
+    "price": 16990000,
+    "transmission": "other",
+    "description": "Audi A8 2020"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2020,
+    "price": 12990000,
+    "transmission": "auto",
+    "description": "Audi A8 2020 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2013,
+    "price": 9490000,
+    "transmission": "other",
+    "description": "Ford F150 2013"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2019,
+    "price": 25490000,
+    "transmission": "manual",
+    "description": "Honda Accord 2019"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2018,
+    "price": 14490000,
+    "transmission": "auto",
+    "description": "BMW X5 2018 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2020,
+    "price": 14490000,
+    "transmission": "manual",
+    "description": "Audi 7 2020"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2014,
+    "price": 22490000,
+    "transmission": "manual",
+    "description": "Audi A7 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2012,
+    "price": 10490000,
+    "transmission": "other",
+    "description": "Lincoln MKS 2012"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2020,
+    "price": 18490000,
+    "transmission": "other",
+    "description": "Audi A7 2020"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2016,
+    "price": 17490000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2016 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2017,
+    "price": 13990000,
+    "transmission": "other",
+    "description": "BMW M3 2017"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2017,
+    "price": 25490000,
+    "transmission": "auto",
+    "description": "BMW M5 2017 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2015,
+    "price": 22990000,
+    "transmission": "manual",
+    "description": "BMW X1 2015"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2020,
+    "price": 16990000,
+    "transmission": "other",
+    "description": "Lincoln Navigator 2020"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2019,
+    "price": 23490000,
+    "transmission": "auto",
+    "description": "Ford Focus 2019 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2015,
+    "price": 24490000,
+    "transmission": "other",
+    "description": "Lincoln MKX 2015"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2013,
+    "price": 8990000,
+    "transmission": "auto",
+    "description": "BMW X1 2013 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2020,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Audi A4 2020"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "price": 18990000,
+    "transmission": "manual",
+    "description": "Honda Civic 2020"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2016,
+    "price": 18490000,
+    "transmission": "auto",
+    "description": "BMW X5 2016 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2013,
+    "price": 18490000,
+    "transmission": "manual",
+    "description": "Ford Focus 2013"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2018,
+    "price": 21490000,
+    "transmission": "manual",
+    "description": "Lincoln MKS 2018"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2020,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "BMW M5 2020"
+  },
+  {
+    "brand": "Audi",
+    "model": "S5",
+    "year": 2015,
+    "price": 18990000,
+    "transmission": "auto",
+    "description": "Audi S5 2015 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "price": 19490000,
+    "transmission": "other",
+    "description": "Honda Civic 2020"
+  },
+  {
+    "brand": "Audi",
+    "model": "S5",
+    "year": 2018,
+    "price": 23490000,
+    "transmission": "auto",
+    "description": "Audi S5 2018 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2019,
+    "price": 21990000,
+    "transmission": "manual",
+    "description": "Ford Mustang 2019"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2013,
+    "price": 14990000,
+    "transmission": "auto",
+    "description": "Audi A7 2013 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "6",
+    "year": 2016,
+    "price": 24490000,
+    "transmission": "other",
+    "description": "Audi 6 2016"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2013,
+    "price": 15990000,
+    "transmission": "auto",
+    "description": "Ford Fiesta 2013 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2016,
+    "price": 10990000,
+    "transmission": "auto",
+    "description": "BMW M5 2016 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2015,
+    "price": 22490000,
+    "transmission": "manual",
+    "description": "Audi A4 2015"
+  },
+  {
+    "brand": "Audi",
+    "model": "7",
+    "year": 2014,
+    "price": 17990000,
+    "transmission": "manual",
+    "description": "Audi 7 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2016,
+    "price": 9490000,
+    "transmission": "auto",
+    "description": "Lincoln MKS 2016 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2020,
+    "price": 16490000,
+    "transmission": "auto",
+    "description": "Audi A4 2020 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2018,
+    "price": 13490000,
+    "transmission": "manual",
+    "description": "Ford Mustang 2018"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2014,
+    "price": 25490000,
+    "transmission": "other",
+    "description": "Audi A8 2014"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2018,
+    "price": 11490000,
+    "transmission": "auto",
+    "description": "Lincoln MKZ 2018 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2013,
+    "price": 24990000,
+    "transmission": "manual",
+    "description": "Ford F150 2013"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2017,
+    "price": 8990000,
+    "transmission": "other",
+    "description": "Lincoln MKS 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2018,
+    "price": 20990000,
+    "transmission": "other",
+    "description": "Audi A4 2018"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2018,
+    "price": 15490000,
+    "transmission": "auto",
+    "description": "BMW X3 2018 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2018,
+    "price": 9990000,
+    "transmission": "auto",
+    "description": "BMW M3 2018 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2020,
+    "price": 25990000,
+    "transmission": "other",
+    "description": "Ford Fiesta 2020"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2018,
+    "price": 22490000,
+    "transmission": "auto",
+    "description": "Honda Odyssey 2018 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2013,
+    "price": 12990000,
+    "transmission": "manual",
+    "description": "Audi A7 2013"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2018,
+    "price": 14990000,
+    "transmission": "other",
+    "description": "Audi A5 2018"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2016,
+    "price": 21490000,
+    "transmission": "manual",
+    "description": "Audi A7 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "S5",
+    "year": 2019,
+    "price": 22990000,
+    "transmission": "manual",
+    "description": "Audi S5 2019"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2016,
+    "price": 22490000,
+    "transmission": "auto",
+    "description": "BMW M3 2016 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2020,
+    "price": 10990000,
+    "transmission": "auto",
+    "description": "Ford F150 2020 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2020,
+    "price": 24490000,
+    "transmission": "manual",
+    "description": "BMW X3 2020"
+  },
+  {
+    "brand": "BMW",
+    "model": "328i",
+    "year": 2017,
+    "price": 24990000,
+    "transmission": "auto",
+    "description": "BMW 328i 2017 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2019,
+    "price": 25490000,
+    "transmission": "other",
+    "description": "BMW M5 2019"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2019,
+    "price": 19990000,
+    "transmission": "auto",
+    "description": "Ford Mustang 2019 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2020,
+    "price": 10490000,
+    "transmission": "manual",
+    "description": "BMW X5 2020"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2020,
+    "price": 12990000,
+    "transmission": "manual",
+    "description": "Ford Focus 2020"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2019,
+    "price": 17490000,
+    "transmission": "manual",
+    "description": "BMW X5 2019"
+  },
+  {
+    "brand": "BMW",
+    "model": "M5",
+    "year": 2020,
+    "price": 23990000,
+    "transmission": "auto",
+    "description": "BMW M5 2020 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2017,
+    "price": 14990000,
+    "transmission": "other",
+    "description": "Ford Fiesta 2017"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2015,
+    "price": 10990000,
+    "transmission": "auto",
+    "description": "Audi A4 2015 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2017,
+    "price": 25490000,
+    "transmission": "other",
+    "description": "Audi A5 2017"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2018,
+    "price": 17490000,
+    "transmission": "other",
+    "description": "Lincoln MKS 2018"
+  },
+  {
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2019,
+    "price": 9990000,
+    "transmission": "other",
+    "description": "BMW X1 2019"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8",
+    "year": 2014,
+    "price": 20990000,
+    "transmission": "manual",
+    "description": "Audi A8 2014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2016,
+    "price": 14490000,
+    "transmission": "auto",
+    "description": "Audi A5 2016 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2019,
+    "price": 14990000,
+    "transmission": "auto",
+    "description": "Lincoln Navigator 2019 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2020,
+    "price": 9990000,
+    "transmission": "auto",
+    "description": "Ford Focus 2020 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2017,
+    "price": 22490000,
+    "transmission": "manual",
+    "description": "Honda Civic 2017"
+  },
+  {
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2015,
+    "price": 19990000,
+    "transmission": "auto",
+    "description": "Honda CR-V 2015 (auto)"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2013,
+    "price": 9490000,
+    "transmission": "manual",
+    "description": "Ford Fiesta 2013"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2014,
+    "price": 9990000,
+    "transmission": "auto",
+    "description": "Lincoln Navigator 2014 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "328i",
+    "year": 2014,
+    "price": 16490000,
+    "transmission": "auto",
+    "description": "BMW 328i 2014 (auto)"
+  },
+  {
+    "brand": "Audi",
+    "model": "S5",
+    "year": 2014,
+    "price": 14990000,
+    "transmission": "manual",
+    "description": "Audi S5 2014"
+  },
+  {
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2014,
+    "price": 18990000,
+    "transmission": "other",
+    "description": "Ford Fiesta 2014"
+  },
+  {
+    "brand": "Audi",
+    "model": "S5",
+    "year": 2015,
+    "price": 10990000,
+    "transmission": "manual",
+    "description": "Audi S5 2015"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2016,
+    "price": 20990000,
+    "transmission": "other",
+    "description": "Ford Mustang 2016"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7",
+    "year": 2019,
+    "price": 19490000,
+    "transmission": "auto",
+    "description": "Audi A7 2019 (auto)"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2020,
+    "price": 15990000,
+    "transmission": "manual",
+    "description": "BMW M3 2020"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2019,
+    "price": 24490000,
+    "transmission": "auto",
+    "description": "BMW M3 2019 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2018,
+    "price": 20990000,
+    "transmission": "manual",
+    "description": "Honda Accord 2018"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2017,
+    "price": 16490000,
+    "transmission": "auto",
+    "description": "Ford F150 2017 (auto)"
+  },
+  {
+    "brand": "Honda",
+    "model": "Odyssey",
+    "year": 2016,
+    "price": 15490000,
+    "transmission": "other",
+    "description": "Honda Odyssey 2016"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "Navigator",
+    "year": 2013,
+    "price": 10990000,
+    "transmission": "manual",
+    "description": "Lincoln Navigator 2013"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKZ",
+    "year": 2020,
+    "price": 13490000,
+    "transmission": "manual",
+    "description": "Lincoln MKZ 2020"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKX",
+    "year": 2017,
+    "price": 15990000,
+    "transmission": "other",
+    "description": "Lincoln MKX 2017"
+  },
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "year": 2016,
+    "price": 11490000,
+    "transmission": "other",
+    "description": "BMW M3 2016"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2019,
+    "price": 21990000,
+    "transmission": "manual",
+    "description": "Ford Mustang 2019"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2016,
+    "price": 9490000,
+    "transmission": "auto",
+    "description": "Lincoln MKS 2016 (auto)"
+  },
+  {
+    "brand": "Lincoln",
+    "model": "MKS",
+    "year": 2017,
+    "price": 8990000,
+    "transmission": "other",
+    "description": "Lincoln MKS 2017"
+  },
+  {
+    "brand": "Ford",
+    "model": "F150",
+    "year": 2020,
+    "price": 10990000,
+    "transmission": "auto",
+    "description": "Ford F150 2020 (auto)"
+  }
+]

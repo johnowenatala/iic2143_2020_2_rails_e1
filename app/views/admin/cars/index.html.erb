@@ -16,7 +16,7 @@
   <h2>Carga masiva de autos</h2>
   <%= form_tag(admin_cars_load_path, method: :post, multipart: true) do %>
 
-    <p>Elija que cargar y luego seleccione el archivo a usar (formatos admitidos: csv, xlsx)</p>
+    <p>Elija que cargar y luego seleccione el archivo a usar (formatos admitidos: csv, xlsx y json)</p>
 
     <%= select_tag "load_type", options_for_select([
         ["Autos", "cars"],

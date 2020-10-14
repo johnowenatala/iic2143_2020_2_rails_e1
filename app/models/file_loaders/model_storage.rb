@@ -1,14 +1,17 @@
 module FileLoaders
-  class ModelLoader < FileLoader
-
-    protected
+  class ModelStorage < RecordStorage
 
     ##
     # Guardar un objeto (lo busca y actualiza, o lo crea, según sea el caso)
-    # @param [String] brand_name - nombre de la marca
-    # @param [String] name - nombre del modelo
-    # @param [String] segment - segmento al que pertenece el modelo (sport, sedan, suv, truck)
-    def save(brand_name, name, segment)
+    # @param [Array] row - arreglo con la informacion a guardar
+    def save(row)
+      # se que siempre en una fila viene, primero el nombre de la marca
+      brand_name = row[0]
+      # luego viene el nombre del modelo
+      name = row[1]
+      # por ultimo el segmento
+      segment = row[2]
+
       # el modelo depende de la marca. Primero debemos encontrar la marca
       brand = Brand.where(name: brand_name).first! # si no lo encontramos, fallamos
 
